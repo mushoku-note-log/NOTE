@@ -1,30 +1,44 @@
-# 無職のおっさん、note で稼げるのか実験中 — 記事インデックス
+# 無職のおっさん、note で稼げるのか実験中 — 企画アーカイブ
 
-50代・無職の状態から、AIと相談しながらnoteで収益化できるかを実験している記録のインデックスです。日々の報告、悩み解決型の記事、ライトノベル、楽曲などを公開しています。
+50代・無職・貯金が減少している状態から、AIと相談しながらnoteで収益を得られるようになるまでの実験記録です。成功、失敗、実際の数字、AIとの相談経緯を公開しています。
 
-このリポジトリには、note で公開している日次報告・悩み解決型記事の要約を収録しています（有料記事は無料部分の要約のみ）。ライトノベル・楽曲はリンク集のみを収録し、全文はカクヨム・Sunoなど各原文でお読みください。
+このリポジトリは、企画の**外部メモリ／正本**として、AI（ChatGPT・Claude・Claude Code等）が経緯を再確認できる形で構成しています。有料コンテンツの本文・商品ファイルは一切含まれていません（詳細は `excluded_paid_content_manifest.md` 参照）。
 
-## 記事一覧
+## 企画概要
 
-| # | タイトル | 種別 | ファイル | 原文リンク |
-|---|---|---|---|---|
-| 1 | 50代、無職、貯金は減る一方。今日からNOTEで「稼げるようになるまで」を全部さらします | 日次報告 | [articles/01-self-introduction.md](articles/01-self-introduction.md) | [note](https://note.com/mushoku_note_log/n/na90be82cff1f) |
-| 2 | 【1日目】特に何もしていません。Threadsを眺めていただけです | 日次報告 | [articles/02-day1.md](articles/02-day1.md) | [note](https://note.com/mushoku_note_log/n/nddee92061747) |
-| 3 | 【2日目】【AI3体リレー】Perplexityで調べて、Claudeで書いて、Geminiで画像を作る。 | 有料記事（無料部分の要約） | [articles/03-day2-ai-relay.md](articles/03-day2-ai-relay.md) | [note](https://note.com/mushoku_note_log/n/ndb5f90be0fe2)（¥300） |
-| 4 | 【3日目】閲覧101・スキ12・フォロワー7、それでも売上はまだ0円です | 日次報告 | [articles/04-day3.md](articles/04-day3.md) | [note](https://note.com/mushoku_note_log/n/n775cebb143b3) |
-| 5 | 無職のおっさん、ラノベを書く 第1話 | ライトノベル（リンク集） | [articles/05-ranobe-ch1.md](articles/05-ranobe-ch1.md) | [note](https://note.com/mushoku_note_log/n/n37ee39ba99f8) / [カクヨム](https://kakuyomu.jp/works/2912051603761330660) |
-| 6 | 【4日目】作ることと届けることは、別の作業でした | 日次報告 | [articles/06-day4.md](articles/06-day4.md) | [note](https://note.com/mushoku_note_log/n/nfd4db92e22ef) |
-| 7 | 無職のおっさん、ラノベを書く 第2話 | ライトノベル（リンク集） | [articles/07-ranobe-ch2.md](articles/07-ranobe-ch2.md) | [note](https://note.com/mushoku_note_log/n/nbeb89345ded3) / [カクヨム](https://kakuyomu.jp/works/2912051603761330660) |
-| 8 | 「50代無職のおっさん」――売上ゼロ円から、もう一度始めるSunoオリジナル曲 | 楽曲（リンク集） | [articles/08-suno-song.md](articles/08-suno-song.md) | [note](https://note.com/mushoku_note_log/n/n08a4d41a38d5) |
-| 9 | 【5日目】初売上400円。しかも購入後に高評価をいただきました | 日次報告 | [articles/09-day5.md](articles/09-day5.md) | [note](https://note.com/mushoku_note_log/n/n51a5c2c73525) |
-| 10 | 無職のおっさん、ラノベを書く 第3話 | ライトノベル（リンク集） | [articles/10-ranobe-ch3.md](articles/10-ranobe-ch3.md) | [note](https://note.com/mushoku_note_log/n/n7b267ac95ccc) / [カクヨム](https://kakuyomu.jp/works/2912051603761330660) |
-| 11 | ChatGPT（AI）を開いたけれど、何を入力すればいいか分からない人へ | 悩み解決型 | [articles/11-chatgpt-howto.md](articles/11-chatgpt-howto.md) | [note](https://note.com/mushoku_note_log/n/nc51de7ac6dcd) |
-| 12 | 【6日目】フォロワー27人、売上は400円のまま。Threadsは停止されました | 日次報告 | [articles/12-day6.md](articles/12-day6.md) | [note](https://note.com/mushoku_note_log/n/n360c3d486990) |
-| 13 | noteで稼ぎたい。でも何を書けばいいか分からない人へ。AIと相談して記事を作る方法 | 有料記事（無料部分の要約） | [articles/13-ai-dialogue-method.md](articles/13-ai-dialogue-method.md) | [note](https://note.com/mushoku_note_log/n/n1e59ac4c62ec)（¥500、割引¥400） |
-| 14 | noteを書きたいのに、記事のネタが何も思いつかない人へ | 悩み解決型 | [articles/14-note-ideas-howto.md](articles/14-note-ideas-howto.md) | [note](https://note.com/mushoku_note_log/n/nfd31b95f2d1e) |
-| 15 | 【7日目】フォロワー40人、ショート動画3万回。でも売上は400円のまま | 日次報告 | [articles/15-day7.md](articles/15-day7.md) | [note](https://note.com/mushoku_note_log/n/nc867955fd803) |
+- 目的：思想発信ではなく、NOTEでの収益化そのもの
+- 方針：嘘の実績を書かない、まだ稼げていない段階で稼げたように見せない、成功だけでなく失敗や方向転換も記録する
+- 分離：著者の他の思想活動（自然補完科学・文明OS等）とは完全に分離して運用
 
-## 関連サイト・アカウント
+## 現在の状況（2026年7月12日時点）
+
+- 実験開始から7日目
+- 公開記事数：15本（無料13・有料2）
+- note フォロワー：40人、全体ビュー：427、スキ：113
+- 売上：400円（初売上から未増加）
+- YouTube Shorts最初の動画：3万回超再生（収益化条件は未達）
+- BOOTHショップ「ai-dialogue-lab」開設、商品1点公開（¥500）
+- Threadsアカウントは2026年7月11日に停止（本人確認の問題）
+
+最新の数字は `metrics/daily_metrics.csv` を参照してください。
+
+## リポジトリ内の案内
+
+| ファイル・フォルダ | 内容 |
+|---|---|
+| [PROJECT_RULES.md](PROJECT_RULES.md) | 記事制作ルール、禁止事項、文体、有料/無料の判断基準 |
+| [PROJECT_HISTORY.md](PROJECT_HISTORY.md) | 企画開始から現在までの時系列、採用案・不採用案 |
+| [AI_ROLES.md](AI_ROLES.md) | 使用しているAIとそれぞれの担当範囲 |
+| [NOTE_ARTICLES.md](NOTE_ARTICLES.md) | 公開済みnote記事の一覧（タイトル・URL・価格・公開日） |
+| [CONTENT_WORKFLOW.md](CONTENT_WORKFLOW.md) | 実際の制作工程（相談→確認→修正→作成→展開→記録） |
+| [docs/free-articles/](docs/free-articles/) | 無料公開記事の要約・原文（フィクション作品はリンクのみ） |
+| [docs/project-log/](docs/project-log/) | 日ごとの作業記録・判断・失敗と修正 |
+| [docs/social-posts/](docs/social-posts/) | 実際に投稿したSNS文章の記録 |
+| [metrics/daily_metrics.csv](metrics/daily_metrics.csv) | 閲覧数・スキ・フォロワー・売上等の日次記録 |
+| [paid-content/README.md](paid-content/README.md) | 有料商品の名称・価格・リンク・概要（本文は含まない） |
+| [excluded_paid_content_manifest.md](excluded_paid_content_manifest.md) | 除外したファイルと理由の一覧 |
+
+## NOTEアカウントと関連リンク
 
 | サービス | リンク |
 |---|---|
@@ -44,4 +58,4 @@
 
 ## 著作権について
 
-本リポジトリの文章の著作権は、著者（無職のおっさん、note で稼げるのか実験中）に帰属します。有料記事は無料公開部分の要約のみを収録しています。ライトノベル・楽曲は概要のみを収録し、全文は note またはカクヨムの原文をご覧ください。
+本リポジトリの文章の著作権は、著者（無職のおっさん、note で稼げるのか実験中）に帰属します。有料記事は無料公開部分の概要のみを収録しています。ライトノベル・楽曲は著作権保護の観点から本文を掲載せず、概要とリンクのみを収録しています。全文は note・カクヨム・Sunoの原文でお読みください。
