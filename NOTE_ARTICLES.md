@@ -1,5 +1,7 @@
 # NOTE_ARTICLES.md
 
+[← トップページへ戻る](README.md)
+
 公開済みnote記事一覧（2026年7月12日時点、15本）。有料記事は無料公開部分の概要のみ記載。詳細な要約は `docs/free-articles/` を参照。
 
 | # | タイトル | 種別 | 価格 | 公開日 | URL | 概要ファイル |
@@ -31,6 +33,16 @@
 ## 有料記事について
 
 第3番・第13番は、無料公開されている部分の概要のみを `docs/free-articles/` に収録しています。有料部分の本文・テンプレート・PDF等は `paid-content/README.md` に商品情報（タイトル・価格・リンク・概要）のみ記載し、本文は収録していません。
+
+---
+
+## 関連記事
+
+- [有料コンテンツ案内](paid-content/README.md)
+- [50代、無職、貯金は減る一方。今日からNOTEで「稼げるようになるまで」を全部さらします](docs/free-articles/01-self-introduction.md)
+- [企画の履歴](PROJECT_HISTORY.md)
+
+[← トップページへ戻る](README.md)
 
 ---
 

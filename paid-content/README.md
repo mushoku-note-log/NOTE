@@ -1,5 +1,7 @@
 # paid-content/README.md
 
+[← トップページへ戻る](../README.md)
+
 有料コンテンツの一覧です。**本文・テンプレート実物・PDF・DOCX等の商品ファイルはこのリポジトリに含まれていません。** タイトル・価格・リンク・一般的な内容案内のみを記載しています。
 
 ## note 有料記事
@@ -33,6 +35,17 @@
 - 価格：未定
 - 公開日：未定
 - 同じBOOTHショップ（ai-dialogue-lab）へ追加予定のデジタル絵本
+
+---
+
+## 関連記事
+
+- [NOTE記事一覧](../NOTE_ARTICLES.md)
+- [ChatGPTを開いたけれど、何を入力すればいいか分からない人へ](../docs/free-articles/11-chatgpt-howto.md)
+- [noteを書きたいのに、記事のネタが何も思いつかない人へ](../docs/free-articles/14-note-ideas-howto.md)
+- [除外コンテンツ一覧](../excluded_paid_content_manifest.md)
+
+[← トップページへ戻る](../README.md)
 
 ---
 
