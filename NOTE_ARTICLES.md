@@ -2,7 +2,7 @@
 
 [← トップページへ戻る](README.md)
 
-公開済みnote記事一覧（2026年7月12日時点、15本）。有料記事は無料公開部分の概要のみ記載。詳細な要約は `docs/free-articles/` を参照。
+公開済みnote記事一覧（2026年7月13日時点、20本）。有料記事は無料公開部分の概要のみ記載。詳細な要約は `docs/free-articles/` を参照。
 
 | # | タイトル | 種別 | 価格 | 公開日 | URL | 概要ファイル |
 |---|---|---|---|---|---|---|
@@ -21,10 +21,15 @@
 | 13 | noteで稼ぎたい。でも何を書けばいいか分からない人へ。AIと相談して記事を作る方法（固定記事） | 有料 | ¥500（〜2026-07-31は¥400） | 2026-07-09 | https://note.com/mushoku_note_log/n/n1e59ac4c62ec | docs/free-articles/13-ai-dialogue-method-free-part.md |
 | 14 | noteを書きたいのに、記事のネタが何も思いつかない人へ | 無料・導線記事 | - | 2026-07-11 | https://note.com/mushoku_note_log/n/nfd31b95f2d1e | docs/free-articles/14-note-ideas-howto.md |
 | 15 | 無職のおっさん【7日目】フォロワー40人、ショート動画3万回。でも売上は400円のまま | 無料・日次報告 | - | 2026-07-12 | https://note.com/mushoku_note_log/n/nc867955fd803 | docs/free-articles/15-day7.md |
+| 16 | 無職のおっさん、ラノベを書く 第4話 | 無料・ライトノベル | - | 2026-07-12 | https://note.com/mushoku_note_log/n/n963103060a9c | リンクのみ（下記参照） |
+| 17 | ChatGPTを開いたまま止まっている人へ。最初に必要だったのは「指示」ではなく「相談」でした | 無料・導線記事 | - | 2026-07-12 | https://note.com/mushoku_note_log/n/n431f42c152cc | docs/free-articles/16-chatgpt-consultation-howto.md |
+| 18 | 無職のおっさん、ラノベを書く 第5話 | 無料・ライトノベル | - | 2026-07-12 | https://note.com/mushoku_note_log/n/n201f0d0b7283 | リンクのみ（下記参照） |
+| 19 | 無職のおっさん【8日目】フォロワー62人。でも売上は400円のまま | 無料・日次報告 | - | 2026-07-13 | https://note.com/mushoku_note_log/n/n3bfc50713677 | docs/free-articles/17-day8.md |
+| 20 | 無職のおっさん、ラノベを書く 第6話 | 無料・ライトノベル | - | 2026-07-13 | https://note.com/mushoku_note_log/n/nda3b00d1a064 | リンクのみ（下記参照） |
 
 ## ライトノベル・楽曲について
 
-第5・7・10番（ラノベ第1〜3話）と第8番（Suno楽曲）は、著作権保護の観点から本文をこのリポジトリへ転載していません。全文は以下でお読みください。
+第5・7・10・16・18・20番（ラノベ第1〜6話）と第8番（Suno楽曲）は、著作権保護の観点から本文をこのリポジトリへ転載していません。全文は以下でお読みください。
 
 - note: 各URL（上表参照）
 - カクヨム: https://kakuyomu.jp/works/2912051603761330660
