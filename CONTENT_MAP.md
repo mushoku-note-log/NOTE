@@ -28,9 +28,10 @@
 | noteを書きたいのに、記事のネタが何も思いつかない人へ | docs/free-articles/14-note-ideas-howto.md | AIと相談する方法記事、【6日目】 |
 | 【7日目】フォロワー40人、ショート動画3万回。でも売上は400円のまま | docs/free-articles/15-day7.md | 【6日目】、ChatGPT相談記事、有料コンテンツ案内 |
 | ChatGPTを開いたまま止まっている人へ。最初に必要だったのは「指示」ではなく「相談」でした | docs/free-articles/16-chatgpt-consultation-howto.md | ChatGPT記事、AIと相談する方法記事、有料コンテンツ案内 |
-| 【8日目】フォロワー62人。でも売上は400円のまま | docs/free-articles/17-day8.md | 【7日目】、ChatGPT相談記事 |
+| 【8日目】フォロワー62人。でも売上は400円のまま | docs/free-articles/17-day8.md | 【7日目】、ChatGPT相談記事、【9日目】 |
+| 【9日目】フォロワー85人。でも、新しい記事が読まれているとは限りません | docs/free-articles/18-day9.md | 【8日目】、記事ネタ記事、有料コンテンツ案内 |
 | ライトノベル第1〜6話・Suno楽曲（本文は非収録） | NOTE_ARTICLES.md 内にリンクのみ | カクヨム、Suno |
-| NOTE記事一覧（全20本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
+| NOTE記事一覧（全21本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
 
 ## AI活用
 
