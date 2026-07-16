@@ -29,9 +29,12 @@
 | 【7日目】フォロワー40人、ショート動画3万回。でも売上は400円のまま | docs/free-articles/15-day7.md | 【6日目】、ChatGPT相談記事、有料コンテンツ案内 |
 | ChatGPTを開いたまま止まっている人へ。最初に必要だったのは「指示」ではなく「相談」でした | docs/free-articles/16-chatgpt-consultation-howto.md | ChatGPT記事、AIと相談する方法記事、有料コンテンツ案内 |
 | 【8日目】フォロワー62人。でも売上は400円のまま | docs/free-articles/17-day8.md | 【7日目】、ChatGPT相談記事、【9日目】 |
-| 【9日目】フォロワー85人。でも、新しい記事が読まれているとは限りません | docs/free-articles/18-day9.md | 【8日目】、記事ネタ記事、有料コンテンツ案内 |
-| ライトノベル第1〜7話・Suno楽曲（本文は非収録） | NOTE_ARTICLES.md 内にリンクのみ | カクヨム、Suno |
-| NOTE記事一覧（全22本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
+| 【9日目】フォロワー85人。でも、新しい記事が読まれているとは限りません | docs/free-articles/18-day9.md | 【8日目】、【10日目】、有料コンテンツ案内 |
+| AI初心者でも大丈夫。最初の質問は「どうすればいい？」だけでした | docs/free-articles/19-ai-beginner-howto.md | ChatGPT相談記事、AIと相談する方法記事、有料コンテンツ案内 |
+| 予約投稿を試しても、読者は急には増えませんでした｜note収益化【10日目】 | docs/free-articles/20-day10.md | 【9日目】、ChatGPTに相談記事 |
+| ChatGPTに相談、お願いするだけでコンテンツが複数生まれる | docs/free-articles/21-chatgpt-multiple-content.md | 【10日目】、AI初心者記事 |
+| ライトノベル第1〜8話・Suno楽曲（本文は非収録） | NOTE_ARTICLES.md 内にリンクのみ | カクヨム、Suno |
+| NOTE記事一覧（全26本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
 
 ## AI活用
 
