@@ -33,8 +33,10 @@
 | AI初心者でも大丈夫。最初の質問は「どうすればいい？」だけでした | docs/free-articles/19-ai-beginner-howto.md | ChatGPT相談記事、AIと相談する方法記事、有料コンテンツ案内 |
 | 予約投稿を試しても、読者は急には増えませんでした｜note収益化【10日目】 | docs/free-articles/20-day10.md | 【9日目】、ChatGPTに相談記事 |
 | ChatGPTに相談、お願いするだけでコンテンツが複数生まれる | docs/free-articles/21-chatgpt-multiple-content.md | 【10日目】、AI初心者記事 |
+| 【11日目】フォロワー103人。でも売上は400円のまま | docs/free-articles/22-day11.md | 【10日目】、バイリンガル教材記事、有料コンテンツ案内 |
+| 日本語のあいさつを、絵本と歌で学ぶバイリンガル教材を作りました | docs/free-articles/23-bilingual-picture-book.md | 【11日目】、有料コンテンツ案内 |
 | ライトノベル第1〜8話・Suno楽曲（本文は非収録） | NOTE_ARTICLES.md 内にリンクのみ | カクヨム、Suno |
-| NOTE記事一覧（全26本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
+| NOTE記事一覧（全28本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
 
 ## AI活用
 
@@ -72,6 +74,8 @@
 | 【AI3体リレー】Perplexityで調べて、Claudeで書いて、Geminiで画像を作る。（¥300） | paid-content/README.md | 【2日目】（無料部分） |
 | noteで稼ぎたい。でも何を書けばいいか分からない人へ。（¥500） | paid-content/README.md | ChatGPT記事、記事ネタ記事（無料部分） |
 | AIと相談しながら記事を作るスターターキット（BOOTH、¥500） | paid-content/README.md | 記事ネタ記事、記事制作の流れ |
+| なくした色を探す猫｜PDFぬりえ絵本（BOOTH、¥800） | paid-content/README.md | 【11日目】 |
+| From Good Morning to Good Night｜バイリンガル教材絵本（BOOTH、¥1,500） | paid-content/README.md | バイリンガル教材記事 |
 | 除外コンテンツ一覧 | excluded_paid_content_manifest.md | 有料コンテンツ案内 |
 
 ## 外部リンク

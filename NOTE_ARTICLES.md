@@ -2,7 +2,7 @@
 
 [← トップページへ戻る](README.md)
 
-公開済みnote記事一覧（2026年7月15日時点、26本）。有料記事は無料公開部分の概要のみ記載。詳細な要約は `docs/free-articles/` を参照。
+公開済みnote記事一覧（2026年7月16日時点、28本）。有料記事は無料公開部分の概要のみ記載。詳細な要約は `docs/free-articles/` を参照。
 
 | # | タイトル | 種別 | 価格 | 公開日 | URL | 概要ファイル |
 |---|---|---|---|---|---|---|
@@ -32,6 +32,8 @@
 | 24 | 予約投稿を試しても、読者は急には増えませんでした｜note収益化【10日目】 | 無料・日次報告 | - | 2026-07-15 | https://note.com/mushoku_note_log/n/n0dcc46e237db | docs/free-articles/20-day10.md |
 | 25 | ChatGPTに相談、お願いするだけでコンテンツが複数生まれる | 無料・制作記録 | - | 2026-07-15 | https://note.com/mushoku_note_log/n/n1257097d5316 | docs/free-articles/21-chatgpt-multiple-content.md |
 | 26 | 無職のおっさん、ラノベを書く 第8話 | 無料・ライトノベル | - | 2026-07-15 | https://note.com/mushoku_note_log/n/na29d1390f2fa | リンクのみ（下記参照） |
+| 27 | フォロワー103人。でも売上は400円のまま｜note収益化【11日目】 | 無料・日次報告 | - | 2026-07-16 | https://note.com/mushoku_note_log/n/ncb328d7e635f | docs/free-articles/22-day11.md |
+| 28 | 日本語のあいさつを、絵本と歌で学ぶバイリンガル教材を作りました | 無料・商品告知記事 | - | 2026-07-16 | https://note.com/mushoku_note_log/n/n425186749307 | docs/free-articles/23-bilingual-picture-book.md |
 
 ## ライトノベル・楽曲について
 
