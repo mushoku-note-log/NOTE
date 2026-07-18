@@ -19,6 +19,7 @@ BOOTH新商品「From Good Morning to Good Night ― バイリンガル教材絵
 ## 関連記事
 
 - [フォロワー103人。でも売上は400円のまま｜note収益化【11日目】](22-day11.md)
+- [フォロワー114人。でも読者は増えていません｜note収益化【12日目】](24-day12.md)
 - [有料コンテンツ案内](../../paid-content/README.md)
 
 [← トップページへ戻る](../../README.md)

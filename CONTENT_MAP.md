@@ -33,10 +33,12 @@
 | AI初心者でも大丈夫。最初の質問は「どうすればいい？」だけでした | docs/free-articles/19-ai-beginner-howto.md | ChatGPT相談記事、AIと相談する方法記事、有料コンテンツ案内 |
 | 予約投稿を試しても、読者は急には増えませんでした｜note収益化【10日目】 | docs/free-articles/20-day10.md | 【9日目】、ChatGPTに相談記事 |
 | ChatGPTに相談、お願いするだけでコンテンツが複数生まれる | docs/free-articles/21-chatgpt-multiple-content.md | 【10日目】、AI初心者記事 |
-| 【11日目】フォロワー103人。でも売上は400円のまま | docs/free-articles/22-day11.md | 【10日目】、バイリンガル教材記事、有料コンテンツ案内 |
-| 日本語のあいさつを、絵本と歌で学ぶバイリンガル教材を作りました | docs/free-articles/23-bilingual-picture-book.md | 【11日目】、有料コンテンツ案内 |
-| ライトノベル第1〜8話・Suno楽曲（本文は非収録） | NOTE_ARTICLES.md 内にリンクのみ | カクヨム、Suno |
-| NOTE記事一覧（全28本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
+| 【11日目】フォロワー103人。でも売上は400円のまま | docs/free-articles/22-day11.md | 【10日目】、バイリンガル教材記事、【12日目】、有料コンテンツ案内 |
+| 日本語のあいさつを、絵本と歌で学ぶバイリンガル教材を作りました | docs/free-articles/23-bilingual-picture-book.md | 【11日目】、【12日目】、有料コンテンツ案内 |
+| 【12日目】フォロワー114人。でも読者は増えていません | docs/free-articles/24-day12.md | 【11日目】、バイリンガル教材記事、【13日目】、有料コンテンツ案内 |
+| 【13日目】「何を書けばいいか分からない」が、いちばん読まれていました | docs/free-articles/25-day13.md | 【12日目】、AIと相談する方法記事、有料コンテンツ案内 |
+| ライトノベル第1〜10話・Suno楽曲（本文は非収録） | NOTE_ARTICLES.md 内にリンクのみ | カクヨム、Suno |
+| NOTE記事一覧（全32本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
 
 ## AI活用
 
