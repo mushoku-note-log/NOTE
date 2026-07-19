@@ -10,18 +10,21 @@
 - 方針：嘘の実績を書かない、まだ稼げていない段階で稼げたように見せない、成功だけでなく失敗や方向転換も記録する
 - 分離：著者の他の思想活動（自然補完科学・文明OS等）とは完全に分離して運用
 
-## 現在の状況（2026年7月18日時点）
+## 現在の状況（2026年7月19日時点）
 
-- 実験開始から13日目
-- 公開記事数：32本（無料30・有料2、うちラノベ10話）
-- note フォロワー：123人、全体ビュー：831、スキ：231
+- 実験開始から14日目
+- 公開記事数：37本（無料35・有料2、うちラノベ「無職のおっさん、ラノベを書く」11話）
+- note フォロワー：129人、全体ビュー：994、スキ：246
 - 売上：400円（初売上から未増加）
+- 新シリーズ『無職のおっさんの異世界AI生活』を開始（静止画＋AI音声によるスライド形式の映像作品、第1話公開。カクヨム・小説家になろうにも専用ページを開設）
+- 動画自動生成の仕組みが完成し、固定画像＋AI音声＋字幕による動画（現代編・江戸時代編）のシリーズ公開を開始
 - note プレミアムに加入し予約投稿機能を試験導入（初月無料）。今のところ売上への明確な効果は見られていない
 - BOOTHショップ「ai-dialogue-lab」商品3点：スターターキット（¥500）、なくした色を探す猫（¥800）、バイリンガル教材絵本（¥1,500）。「なくした色を探す猫」はKindle版も審査中
 - YouTube Shorts最初の動画：3万回超再生（収益化条件は未達）。ただしキャラクターを固定したシリーズ動画は再生数が伸びにくいことも判明
-- 動画制作を自動化する仕組みを試験中（文章から音声・字幕付き縦型動画までを自動生成する構成を検証）
 - 競艇予想系アカウント等からの相互フォロー目的とみられるフォロワー増加が発生。フォロワー数・読者数・購入者数は別指標だと改めて整理
-- アカウント内で最も読まれている記事が、実験開始の自己紹介記事から「何を書けばいいか分からない人へ」という読者の悩みに直接触れた記事へ入れ替わったことを確認（僅差）。日報型の題名より読者の悩みを前面に出す題名の方が入口になりやすい可能性を検証中
+- アカウント内で最も読まれている記事が、実験開始の自己紹介記事から有料記事「何を書けばいいか分からない人へ」へ入れ替わったことを確認（僅差）。日報型の題名より読者の悩みを前面に出す題名の方が入口になりやすい可能性を検証中
+- 著者による改題：2026年7月18日以降、日報記事（1〜9日目）とAI初心者記事のタイトルを「内容｜note収益化【N日目】」形式に統一。本リポジトリのタイトルも最新版に追随済み
+- 有料記事「noteで稼ぎたい。でも何を書けばいいか分からない人へ」の内容を随時追記中（自動動画生成の実例等）。7月末の割引終了後に値上げ予定
 - Threadsアカウントは2026年7月11日に停止（本人確認の問題）
 - フォロワー数と実際の読者数（記事のスキ等）は別の指標だと判明。新商品より既存の有料記事へつながる無料記事（入口）を増やす方針へ
 
@@ -54,29 +57,32 @@
 ### NOTE記事（無料公開部分）
 
 - [50代、無職、貯金は減る一方。今日からNOTEで「稼げるようになるまで」を全部さらします](docs/free-articles/01-self-introduction.md)
-- [【1日目】特に何もしていません。Threadsを眺めていただけです](docs/free-articles/02-day1.md)
-- [【2日目】【AI3体リレー】Perplexityで調べて、Claudeで書いて、Geminiで画像を作る。（有料記事・無料部分）](docs/free-articles/03-day2-ai-relay-free-part.md)
-- [【3日目】閲覧101・スキ12・フォロワー7、それでも売上はまだ0円です](docs/free-articles/04-day3.md)
-- [【4日目】作ることと届けることは、別の作業でした](docs/free-articles/06-day4.md)
-- [【5日目】初売上400円。しかも購入後に高評価をいただきました](docs/free-articles/09-day5.md)
+- [特に何もしていません。Threadsを眺めていただけです｜note収益化【1日目】](docs/free-articles/02-day1.md)
+- [【AI3体リレー】Perplexityで調べて、Claudeで書いて、Geminiで画像を作る。｜note収益化【2日目】（有料記事・無料部分）](docs/free-articles/03-day2-ai-relay-free-part.md)
+- [閲覧101・スキ12・フォロワー7、それでも売上はまだ0円です｜note収益化【3日目】](docs/free-articles/04-day3.md)
+- [作ることと届けることは、別の作業でした｜note収益化【4日目】](docs/free-articles/06-day4.md)
+- [初売上400円。しかも購入後に高評価をいただきました｜note収益化【5日目】](docs/free-articles/09-day5.md)
 - [ChatGPT（AI）を開いたけれど、何を入力すればいいか分からない人へ](docs/free-articles/11-chatgpt-howto.md)
-- [【6日目】フォロワー27人、売上は400円のまま。Threadsは停止されました](docs/free-articles/12-day6.md)
+- [フォロワー27人、売上は400円のまま。Threadsは停止されました｜note収益化【6日目】](docs/free-articles/12-day6.md)
 - [noteで稼ぎたい。でも何を書けばいいか分からない人へ。AIと相談して記事を作る方法（有料記事・無料部分）](docs/free-articles/13-ai-dialogue-method-free-part.md)
 - [noteを書きたいのに、記事のネタが何も思いつかない人へ](docs/free-articles/14-note-ideas-howto.md)
-- [【7日目】フォロワー40人、ショート動画3万回。でも売上は400円のまま](docs/free-articles/15-day7.md)
+- [フォロワー40人、ショート動画3万回。でも売上は400円のまま｜note収益化【7日目】](docs/free-articles/15-day7.md)
 - [ChatGPTを開いたまま止まっている人へ。最初に必要だったのは「指示」ではなく「相談」でした](docs/free-articles/16-chatgpt-consultation-howto.md)
-- [【8日目】フォロワー62人。でも売上は400円のまま](docs/free-articles/17-day8.md)
-- [【9日目】フォロワー85人。でも、新しい記事が読まれているとは限りません](docs/free-articles/18-day9.md)
-- [AI初心者でも大丈夫。最初の質問は「どうすればいい？」だけでした](docs/free-articles/19-ai-beginner-howto.md)
+- [フォロワー62人。でも売上は400円のまま｜note収益化【8日目】](docs/free-articles/17-day8.md)
+- [フォロワー85人。でも、新しい記事が読まれているとは限りません｜note収益化【9日目】](docs/free-articles/18-day9.md)
+- [AI初心者が最初に覚えるのは、プロンプトではなく「相談の仕方」でした](docs/free-articles/19-ai-beginner-howto.md)
 - [予約投稿を試しても、読者は急には増えませんでした｜note収益化【10日目】](docs/free-articles/20-day10.md)
 - [ChatGPTに相談、お願いするだけでコンテンツが複数生まれる](docs/free-articles/21-chatgpt-multiple-content.md)
-- [【11日目】フォロワー103人。でも売上は400円のまま](docs/free-articles/22-day11.md)
+- [フォロワー103人。でも売上は400円のまま｜note収益化【11日目】](docs/free-articles/22-day11.md)
 - [日本語のあいさつを、絵本と歌で学ぶバイリンガル教材を作りました](docs/free-articles/23-bilingual-picture-book.md)
-- [【12日目】フォロワー114人。でも読者は増えていません](docs/free-articles/24-day12.md)
-- [【13日目】「何を書けばいいか分からない」が、いちばん読まれていました](docs/free-articles/25-day13.md)
-- [NOTE記事一覧（全32本、タイトル・URL・価格）](NOTE_ARTICLES.md)
+- [フォロワー114人。でも読者は増えていません｜note収益化【12日目】](docs/free-articles/24-day12.md)
+- [「何を書けばいいか分からない」が、いちばん読まれていました｜note収益化【13日目】](docs/free-articles/25-day13.md)
+- [AIに相談した結果、自動生成動画のシリーズ化が始まりました｜note収益化【14日目】](docs/free-articles/26-day14.md)
+- [普通のChatGPTとの会話だけで、記事・小説・音楽・商品まで作れました](docs/free-articles/27-chatgpt-conversation-everything.md)
+- [無職のおっさん、アニメを作る（『無職のおっさんの異世界AI生活』第1話）](docs/free-articles/28-anime-isekai-launch.md)
+- [NOTE記事一覧（全37本、タイトル・URL・価格）](NOTE_ARTICLES.md)
 
-ライトノベル（第1〜10話）とSuno楽曲は、著作権保護のため本文を収録せず、[NOTE_ARTICLES.md](NOTE_ARTICLES.md) にリンクのみ記載しています。
+ライトノベル「無職のおっさん、ラノベを書く」（第1〜11話）、新シリーズ『無職のおっさんの異世界AI生活』（第1話）、Suno楽曲は、著作権保護のため本文・歌詞を収録せず、[NOTE_ARTICLES.md](NOTE_ARTICLES.md) にリンクのみ記載しています。noteに直接公開している「記事インデックス」ページも[NOTE_ARTICLES.md](NOTE_ARTICLES.md)に記録しています。
 
 ### AI活用・制作工程
 
@@ -114,7 +120,8 @@
 |---|---|
 | note（本体） | https://note.com/mushoku_note_log |
 | BOOTH（デジタル商品） | https://ai-dialogue-lab.booth.pm/ |
-| カクヨム（ラノベ連載） | https://kakuyomu.jp/users/mushoku_note_log |
+| カクヨム（作者ページ、全連載） | https://kakuyomu.jp/users/mushoku_note_log |
+| 小説家になろう（無職のおっさんの異世界AI生活） | https://ncode.syosetu.com/n4842mm/ |
 | YouTube | https://www.youtube.com/@mushoku_note_log |
 | X (Twitter) | https://x.com/50dainoossan |
 | Instagram | https://www.instagram.com/50daiossan/ |

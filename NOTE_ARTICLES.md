@@ -2,33 +2,33 @@
 
 [← トップページへ戻る](README.md)
 
-公開済みnote記事一覧（2026年7月16日時点、28本）。有料記事は無料公開部分の概要のみ記載。詳細な要約は `docs/free-articles/` を参照。
+公開済みnote記事一覧（2026年7月19日時点、37本）。有料記事は無料公開部分の概要のみ記載。詳細な要約は `docs/free-articles/` を参照。タイトルは2026年7月18日以降、著者による改題を反映した最新のものです（旧タイトルは `PROJECT_HISTORY.md` の該当日を参照）。
 
 | # | タイトル | 種別 | 価格 | 公開日 | URL | 概要ファイル |
 |---|---|---|---|---|---|---|
 | 1 | 無職のおっさん50代、貯金は減る一方。今日からNOTEで「稼げるようになるまで」を全部さらします | 無料・日次報告 | - | 2026-07-06 | https://note.com/mushoku_note_log/n/na90be82cff1f | docs/free-articles/01-self-introduction.md |
-| 2 | 無職のおっさん【1日目】特に何もしていません。Threadsを眺めていただけです | 無料・日次報告 | - | 2026-07-07 | https://note.com/mushoku_note_log/n/nddee92061747 | docs/free-articles/02-day1.md |
-| 3 | 無職のおっさん【2日目】【AI3体リレー】Perplexityで調べて、Claudeで書いて、Geminiで画像を作る。 | 有料 | ¥300 | 2026-07-07 | https://note.com/mushoku_note_log/n/ndb5f90be0fe2 | docs/free-articles/03-day2-ai-relay-free-part.md |
-| 4 | 【3日目】閲覧101・スキ12・フォロワー7、それでも売上はまだ0円です | 無料・日次報告 | - | 2026-07-08 | https://note.com/mushoku_note_log/n/n775cebb143b3 | docs/free-articles/04-day3.md |
+| 2 | 特に何もしていません。Threadsを眺めていただけです｜note収益化【1日目】 | 無料・日次報告 | - | 2026-07-07 | https://note.com/mushoku_note_log/n/nddee92061747 | docs/free-articles/02-day1.md |
+| 3 | 【AI3体リレー】Perplexityで調べて、Claudeで書いて、Geminiで画像を作る。｜note収益化【2日目】 | 有料 | ¥300 | 2026-07-07 | https://note.com/mushoku_note_log/n/ndb5f90be0fe2 | docs/free-articles/03-day2-ai-relay-free-part.md |
+| 4 | 閲覧101・スキ12・フォロワー7、それでも売上はまだ0円です｜note収益化【3日目】 | 無料・日次報告 | - | 2026-07-08 | https://note.com/mushoku_note_log/n/n775cebb143b3 | docs/free-articles/04-day3.md |
 | 5 | 無職のおっさん、ラノベを書く 第1話 | 無料・ライトノベル | - | 2026-07-08 | https://note.com/mushoku_note_log/n/n37ee39ba99f8 | リンクのみ（下記参照） |
-| 6 | 無職のおっさん【4日目】作ることと届けることは、別の作業でした | 無料・日次報告 | - | 2026-07-09 | https://note.com/mushoku_note_log/n/nfd4db92e22ef | docs/free-articles/06-day4.md |
+| 6 | 作ることと届けることは、別の作業でした｜note収益化【4日目】 | 無料・日次報告 | - | 2026-07-09 | https://note.com/mushoku_note_log/n/nfd4db92e22ef | docs/free-articles/06-day4.md |
 | 7 | 無職のおっさん、ラノベを書く 第2話 | 無料・ライトノベル | - | 2026-07-09 | https://note.com/mushoku_note_log/n/nbeb89345ded3 | リンクのみ（下記参照） |
 | 8 | 「50代無職のおっさん」――売上ゼロ円から、もう一度始めるSunoオリジナル曲 | 無料・楽曲 | - | 2026-07-09 | https://note.com/mushoku_note_log/n/n08a4d41a38d5 | リンクのみ（下記参照） |
-| 9 | 無職のおっさん【5日目】初売上400円。しかも購入後に高評価をいただきました | 無料・日次報告 | - | 2026-07-10 | https://note.com/mushoku_note_log/n/n51a5c2c73525 | docs/free-articles/09-day5.md |
+| 9 | 初売上400円。しかも購入後に高評価をいただきました｜note収益化【5日目】 | 無料・日次報告 | - | 2026-07-10 | https://note.com/mushoku_note_log/n/n51a5c2c73525 | docs/free-articles/09-day5.md |
 | 10 | 無職のおっさん、ラノベを書く 第3話 | 無料・ライトノベル | - | 2026-07-10 | https://note.com/mushoku_note_log/n/n7b267ac95ccc | リンクのみ（下記参照） |
 | 11 | ChatGPT（AI）を開いたけれど、何を入力すればいいか分からない人へ | 無料・導線記事 | - | 2026-07-10 | https://note.com/mushoku_note_log/n/nc51de7ac6dcd | docs/free-articles/11-chatgpt-howto.md |
-| 12 | 無職のおっさん【6日目】フォロワー27人、売上は400円のまま。Threadsは停止されました | 無料・日次報告 | - | 2026-07-11 | https://note.com/mushoku_note_log/n/n360c3d486990 | docs/free-articles/12-day6.md |
+| 12 | フォロワー27人、売上は400円のまま。Threadsは停止されました｜note収益化【6日目】 | 無料・日次報告 | - | 2026-07-11 | https://note.com/mushoku_note_log/n/n360c3d486990 | docs/free-articles/12-day6.md |
 | 13 | noteで稼ぎたい。でも何を書けばいいか分からない人へ。AIと相談して記事を作る方法（固定記事） | 有料 | ¥500（〜2026-07-31は¥400） | 2026-07-09 | https://note.com/mushoku_note_log/n/n1e59ac4c62ec | docs/free-articles/13-ai-dialogue-method-free-part.md |
 | 14 | noteを書きたいのに、記事のネタが何も思いつかない人へ | 無料・導線記事 | - | 2026-07-11 | https://note.com/mushoku_note_log/n/nfd31b95f2d1e | docs/free-articles/14-note-ideas-howto.md |
-| 15 | 無職のおっさん【7日目】フォロワー40人、ショート動画3万回。でも売上は400円のまま | 無料・日次報告 | - | 2026-07-12 | https://note.com/mushoku_note_log/n/nc867955fd803 | docs/free-articles/15-day7.md |
+| 15 | フォロワー40人、ショート動画3万回。でも売上は400円のまま｜note収益化【7日目】 | 無料・日次報告 | - | 2026-07-12 | https://note.com/mushoku_note_log/n/nc867955fd803 | docs/free-articles/15-day7.md |
 | 16 | 無職のおっさん、ラノベを書く 第4話 | 無料・ライトノベル | - | 2026-07-12 | https://note.com/mushoku_note_log/n/n963103060a9c | リンクのみ（下記参照） |
 | 17 | ChatGPTを開いたまま止まっている人へ。最初に必要だったのは「指示」ではなく「相談」でした | 無料・導線記事 | - | 2026-07-12 | https://note.com/mushoku_note_log/n/n431f42c152cc | docs/free-articles/16-chatgpt-consultation-howto.md |
 | 18 | 無職のおっさん、ラノベを書く 第5話 | 無料・ライトノベル | - | 2026-07-12 | https://note.com/mushoku_note_log/n/n201f0d0b7283 | リンクのみ（下記参照） |
-| 19 | 無職のおっさん【8日目】フォロワー62人。でも売上は400円のまま | 無料・日次報告 | - | 2026-07-13 | https://note.com/mushoku_note_log/n/n3bfc50713677 | docs/free-articles/17-day8.md |
+| 19 | フォロワー62人。でも売上は400円のまま｜note収益化【8日目】 | 無料・日次報告 | - | 2026-07-13 | https://note.com/mushoku_note_log/n/n3bfc50713677 | docs/free-articles/17-day8.md |
 | 20 | 無職のおっさん、ラノベを書く 第6話 | 無料・ライトノベル | - | 2026-07-13 | https://note.com/mushoku_note_log/n/nda3b00d1a064 | リンクのみ（下記参照） |
-| 21 | 無職のおっさん【9日目】フォロワー85人。でも、新しい記事が読まれているとは限りません | 無料・日次報告 | - | 2026-07-14 | https://note.com/mushoku_note_log/n/nd120005733dd | docs/free-articles/18-day9.md |
+| 21 | フォロワー85人。でも、新しい記事が読まれているとは限りません｜note収益化【9日目】 | 無料・日次報告 | - | 2026-07-14 | https://note.com/mushoku_note_log/n/nd120005733dd | docs/free-articles/18-day9.md |
 | 22 | 無職のおっさん、ラノベを書く 第7話 | 無料・ライトノベル | - | 2026-07-14 | https://note.com/mushoku_note_log/n/nc060eb9e1ba9 | リンクのみ（下記参照） |
-| 23 | AI初心者でも大丈夫。最初の質問は「どうすればいい？」だけでした | 無料・導線記事 | - | 2026-07-15 | https://note.com/mushoku_note_log/n/n4afeca5729e0 | docs/free-articles/19-ai-beginner-howto.md |
+| 23 | AI初心者が最初に覚えるのは、プロンプトではなく「相談の仕方」でした | 無料・導線記事 | - | 2026-07-15 | https://note.com/mushoku_note_log/n/n4afeca5729e0 | docs/free-articles/19-ai-beginner-howto.md |
 | 24 | 予約投稿を試しても、読者は急には増えませんでした｜note収益化【10日目】 | 無料・日次報告 | - | 2026-07-15 | https://note.com/mushoku_note_log/n/n0dcc46e237db | docs/free-articles/20-day10.md |
 | 25 | ChatGPTに相談、お願いするだけでコンテンツが複数生まれる | 無料・制作記録 | - | 2026-07-15 | https://note.com/mushoku_note_log/n/n1257097d5316 | docs/free-articles/21-chatgpt-multiple-content.md |
 | 26 | 無職のおっさん、ラノベを書く 第8話 | 無料・ライトノベル | - | 2026-07-15 | https://note.com/mushoku_note_log/n/na29d1390f2fa | リンクのみ（下記参照） |
@@ -38,14 +38,25 @@
 | 30 | フォロワー114人。でも読者は増えていません｜note収益化【12日目】 | 無料・日次報告 | - | 2026-07-17 | https://note.com/mushoku_note_log/n/nb523df2b2b8d | docs/free-articles/24-day12.md |
 | 31 | 無職のおっさん、ラノベを書く 第10話 | 無料・ライトノベル | - | 2026-07-18 | https://note.com/mushoku_note_log/n/nab120dc417f7 | リンクのみ（下記参照） |
 | 32 | 「何を書けばいいか分からない」が、いちばん読まれていました｜note収益化【13日目】 | 無料・日次報告 | - | 2026-07-18 | https://note.com/mushoku_note_log/n/n8fdb0b830823 | docs/free-articles/25-day13.md |
+| 33 | 記事インデックス | 無料・インデックス | - | 2026-07-18 | https://note.com/mushoku_note_log/n/n191b172b6447 | （本リポジトリのREADME.md・本ファイルに相当。個別の要約ファイルなし） |
+| 34 | 普通のChatGPTとの会話だけで、記事・小説・音楽・商品まで作れました | 無料・制作記録 | - | 2026-07-19 | https://note.com/mushoku_note_log/n/n4206b6637384 | docs/free-articles/27-chatgpt-conversation-everything.md |
+| 35 | AIに相談した結果、自動生成動画のシリーズ化が始まりました｜note収益化【14日目】 | 無料・日次報告 | - | 2026-07-19 | https://note.com/mushoku_note_log/n/nd12a93555c81 | docs/free-articles/26-day14.md |
+| 36 | 無職のおっさん、ラノベを書く 第11話 | 無料・ライトノベル | - | 2026-07-19 | https://note.com/mushoku_note_log/n/n63d3b7576240 | リンクのみ（下記参照） |
+| 37 | 無職のおっさん、アニメを作る（『無職のおっさんの異世界AI生活』第1話） | 無料・制作記録／新シリーズ | - | 2026-07-19 | https://note.com/mushoku_note_log/n/na30d8153984b | docs/free-articles/28-anime-isekai-launch.md |
 
 ## ライトノベル・楽曲について
 
-第5・7・10・16・18・20・22・26・29・31番（ラノベ第1〜10話）と第8番（Suno楽曲「50代無職のおっさん」）、第25番の記事内で作られたポエム・歌詞・短編（Suno楽曲「どうすればいい？」の元になったもの）は、著作権保護の観点から本文をこのリポジトリへ転載していません。全文は以下でお読みください。
+第5・7・10・16・18・20・22・26・29・31・36番（ラノベ「無職のおっさん、ラノベを書く」第1〜11話）と第8番（Suno楽曲「50代無職のおっさん」）、第25番の記事内で作られたポエム・歌詞・短編（Suno楽曲「どうすればいい？」の元になったもの）は、著作権保護の観点から本文をこのリポジトリへ転載していません。全文は以下でお読みください。
+
+第37番で始まった新シリーズ『無職のおっさんの異世界AI生活』（第1話、オープニング曲「まだ見ぬ地図へ」・エンディング曲「明かりのそばで」）も同様に本文・歌詞を転載していません。カクヨム・小説家になろうにはこのシリーズ専用の作品ページがあります（下記参照）。
 
 - note: 各URL（上表参照）
-- カクヨム: https://kakuyomu.jp/works/2912051603761330660
-- Suno（楽曲）: https://suno.com/@mushoku_note_log
+- カクヨム「無職のおっさん、ラノベを書く」: https://kakuyomu.jp/works/2912051603761330660
+- カクヨム「無職のおっさんの異世界AI生活」: https://kakuyomu.jp/works/2912051604385284051
+- 小説家になろう「無職のおっさんの異世界AI生活」: https://ncode.syosetu.com/n4842mm/
+- Suno（楽曲一覧）: https://suno.com/@mushoku_note_log
+- Suno「まだ見ぬ地図へ」（異世界AI生活OP）: https://suno.com/song/f9704c8c-7a9d-4fcd-87ec-4de198da153c
+- Suno「明かりのそばで」（異世界AI生活ED）: https://suno.com/song/bda2988b-5eab-49be-99c1-355c1ec4fe23
 
 ## 有料記事について
 
