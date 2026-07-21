@@ -40,9 +40,11 @@
 | AIに相談した結果、自動生成動画のシリーズ化が始まりました｜note収益化【14日目】 | docs/free-articles/26-day14.md | 【13日目】、ChatGPT会話記事、有料コンテンツ案内 |
 | 普通のChatGPTとの会話だけで、記事・小説・音楽・商品まで作れました | docs/free-articles/27-chatgpt-conversation-everything.md | ChatGPTに相談記事、【14日目】、有料コンテンツ案内 |
 | 無職のおっさん、アニメを作る（『無職のおっさんの異世界AI生活』第1話） | docs/free-articles/28-anime-isekai-launch.md | 【14日目】、ラノベ第11話、有料コンテンツ案内 |
-| ライトノベル「無職のおっさん、ラノベを書く」第1〜11話・異世界AI生活第1話・Suno楽曲（本文は非収録） | NOTE_ARTICLES.md 内にリンクのみ | カクヨム、小説家になろう、Suno |
+| 稼ぐ導線がないなら、まず見てもらえる作品を増やします｜note収益化【15日目】 | docs/free-articles/29-day15.md | 異世界AI生活第1話記事、【16日目】、有料コンテンツ案内 |
+| Etsyを開業しました。でも、売れるかどうかはこれからです｜note収益化【16日目】 | docs/free-articles/30-day16.md | 【15日目】、有料コンテンツ案内 |
+| ライトノベル「無職のおっさん、ラノベを書く」第1〜13話・異世界AI生活第1〜3話・Suno楽曲（本文は非収録） | NOTE_ARTICLES.md 内にリンクのみ | カクヨム、小説家になろう、Suno |
 | 記事インデックス（note側の記事一覧ページ） | NOTE_ARTICLES.md 内にリンクのみ | NOTE記事一覧 |
-| NOTE記事一覧（全37本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
+| NOTE記事一覧（全44本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
 
 ## AI活用
 
@@ -80,14 +82,16 @@
 | 【AI3体リレー】Perplexityで調べて、Claudeで書いて、Geminiで画像を作る。（¥300） | paid-content/README.md | 【2日目】（無料部分） |
 | noteで稼ぎたい。でも何を書けばいいか分からない人へ。（¥500） | paid-content/README.md | ChatGPT記事、記事ネタ記事（無料部分） |
 | AIと相談しながら記事を作るスターターキット（BOOTH、¥500） | paid-content/README.md | 記事ネタ記事、記事制作の流れ |
-| なくした色を探す猫｜PDFぬりえ絵本（BOOTH、¥800） | paid-content/README.md | 【11日目】 |
-| From Good Morning to Good Night｜バイリンガル教材絵本（BOOTH、¥1,500） | paid-content/README.md | バイリンガル教材記事 |
+| なくした色を探す猫｜PDFぬりえ絵本（BOOTH ¥800／Kindle ¥800） | paid-content/README.md | 【11日目】、【13日目・第13話】 |
+| From Good Morning to Good Night｜バイリンガル教材絵本（BOOTH ¥1,500／Etsy） | paid-content/README.md | バイリンガル教材記事、【16日目】 |
 | 除外コンテンツ一覧 | excluded_paid_content_manifest.md | 有料コンテンツ案内 |
 
 ## 外部リンク
 
 - note: https://note.com/mushoku_note_log
 - BOOTH: https://ai-dialogue-lab.booth.pm/
+- Etsy（AI Co-Creation Lab）: https://www.etsy.com/jp/shop/AICoCreationLab
+- Amazon（Kindle）: https://www.amazon.co.jp/dp/B0H8ZJ13Y9
 - YouTube Shorts: https://www.youtube.com/@mushoku_note_log/shorts
 - カクヨム（作者ページ）: https://kakuyomu.jp/users/mushoku_note_log
 - 小説家になろう（異世界AI生活）: https://ncode.syosetu.com/n4842mm/

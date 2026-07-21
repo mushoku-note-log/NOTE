@@ -32,19 +32,27 @@
 
 ### なくした色を探す猫｜読んで、塗って、物語を完成させるPDFぬりえ絵本
 
-- 価格：¥800
+- 価格：¥800（BOOTH）
 - URL：https://ai-dialogue-lab.booth.pm/items/8619097
 - ショップ：ai-dialogue-lab（無職のおっさん｜AI共創実験室）
-- 公開日：2026年7月16日（note記事内での言及より前に完成・公開されたと推定。Kindle版は審査中）
+- 公開日：2026年7月16日（note記事内での言及より前に完成・公開されたと推定）
 - 収録内容の案内：少女リリと猫のミロが、町からなくなった「大切な色」を探して旅をする物語と塗り絵を組み合わせたPDF電子絵本。当初「リリとミロ」塗り絵絵本として構想されていたもの
+- Kindle版（Amazon）：2026年7月21日に審査通過し公開。¥800。https://www.amazon.co.jp/dp/B0H8ZJ13Y9
 
 ### From Good Morning to Good Night ― バイリンガル教材絵本『おはようから おやすみまで』
 
-- 価格：¥1,500
+- 価格：¥1,500（BOOTH）
 - URL：https://ai-dialogue-lab.booth.pm/items/8621007
 - ショップ：ai-dialogue-lab（無職のおっさん｜AI共創実験室）
 - 公開日：2026年7月16日
 - 収録内容の案内：日本語のあいさつを、物語・イラスト・ローマ字・英語訳・歌で学ぶ日英バイリンガル教材。バイリンガル教材絵本PDF、ひらがな印刷用学習シートPDF、日本語版・英語版楽曲MP3を収録
+- Etsy版：2026年7月21日、Etsyショップ「AI Co-Creation Lab」の最初の商品として掲載。https://www.etsy.com/jp/listing/4540738569/from-good-morning-to-good-night-japanese
+
+## Etsy商品（AI Co-Creation Lab）
+
+- ショップURL：https://www.etsy.com/jp/shop/AICoCreationLab
+- 開業日：2026年7月21日（Payoneer連携・本人確認を経て開設）
+- 掲載商品：上記「From Good Morning to Good Night」バイリンガル教材のみ（2026年7月21日時点）
 
 ---
 
