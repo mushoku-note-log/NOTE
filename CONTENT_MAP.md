@@ -79,11 +79,11 @@
 
 | 商品名 | 紹介ページ | 関連する無料記事 |
 |---|---|---|
-| 【AI3体リレー】Perplexityで調べて、Claudeで書いて、Geminiで画像を作る。（¥300） | paid-content/README.md | 【2日目】（無料部分） |
-| noteで稼ぎたい。でも何を書けばいいか分からない人へ。（¥500） | paid-content/README.md | ChatGPT記事、記事ネタ記事（無料部分） |
-| AIと相談しながら記事を作るスターターキット（BOOTH、¥500） | paid-content/README.md | 記事ネタ記事、記事制作の流れ |
-| なくした色を探す猫｜PDFぬりえ絵本（BOOTH ¥800／Kindle ¥800） | paid-content/README.md | 【11日目】、【13日目・第13話】 |
-| From Good Morning to Good Night｜バイリンガル教材絵本（BOOTH ¥1,500／Etsy） | paid-content/README.md | バイリンガル教材記事、【16日目】 |
+| 【AI3体リレー】Perplexityで調べて、Claudeで書いて、Geminiで画像を作る。 | paid-content/README.md | 【2日目】（無料部分） |
+| noteで稼ぎたい。でも何を書けばいいか分からない人へ。 | paid-content/README.md | ChatGPT記事、記事ネタ記事（無料部分） |
+| AIと相談しながら記事を作るスターターキット（BOOTH） | paid-content/README.md | 記事ネタ記事、記事制作の流れ |
+| なくした色を探す猫｜PDFぬりえ絵本（BOOTH／Kindle） | paid-content/README.md | 【11日目】、【13日目・第13話】 |
+| From Good Morning to Good Night｜バイリンガル教材絵本（BOOTH／Etsy） | paid-content/README.md | バイリンガル教材記事、【16日目】 |
 | 除外コンテンツ一覧 | excluded_paid_content_manifest.md | 有料コンテンツ案内 |
 
 ## 外部リンク
