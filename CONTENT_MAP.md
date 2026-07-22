@@ -41,10 +41,12 @@
 | 普通のChatGPTとの会話だけで、記事・小説・音楽・商品まで作れました | docs/free-articles/27-chatgpt-conversation-everything.md | ChatGPTに相談記事、【14日目】、有料コンテンツ案内 |
 | 無職のおっさん、アニメを作る（『無職のおっさんの異世界AI生活』第1話） | docs/free-articles/28-anime-isekai-launch.md | 【14日目】、ラノベ第11話、有料コンテンツ案内 |
 | 稼ぐ導線がないなら、まず見てもらえる作品を増やします｜note収益化【15日目】 | docs/free-articles/29-day15.md | 異世界AI生活第1話記事、【16日目】、有料コンテンツ案内 |
-| Etsyを開業しました。でも、売れるかどうかはこれからです｜note収益化【16日目】 | docs/free-articles/30-day16.md | 【15日目】、有料コンテンツ案内 |
-| ライトノベル「無職のおっさん、ラノベを書く」第1〜13話・異世界AI生活第1〜3話・Suno楽曲（本文は非収録） | NOTE_ARTICLES.md 内にリンクのみ | カクヨム、小説家になろう、Suno |
+| Etsyを開業しました。でも、売れるかどうかはこれからです｜note収益化【16日目】 | docs/free-articles/30-day16.md | 【15日目】、【17日目】、有料コンテンツ案内 |
+| フォロワーは138人。でも、メンバーシップを始めるのはまだ早そうです｜note収益化【17日目】 | docs/free-articles/31-day17.md | 【16日目】、動画自動化記事、有料コンテンツ案内 |
+| noteの記事から、2種類のショート動画が自動でできました | docs/free-articles/32-video-automation-two-series.md | 【17日目】、異世界AI生活第4話、有料コンテンツ案内 |
+| ライトノベル「無職のおっさん、ラノベを書く」第1〜14話・異世界AI生活第1〜4話・Suno楽曲（本文は非収録） | NOTE_ARTICLES.md 内にリンクのみ | カクヨム、小説家になろう、Suno |
 | 記事インデックス（note側の記事一覧ページ） | NOTE_ARTICLES.md 内にリンクのみ | NOTE記事一覧 |
-| NOTE記事一覧（全44本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
+| NOTE記事一覧（全48本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
 
 ## AI活用
 
