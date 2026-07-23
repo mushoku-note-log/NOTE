@@ -44,9 +44,11 @@
 | Etsyを開業しました。でも、売れるかどうかはこれからです｜note収益化【16日目】 | docs/free-articles/30-day16.md | 【15日目】、【17日目】、有料コンテンツ案内 |
 | フォロワーは138人。でも、メンバーシップを始めるのはまだ早そうです｜note収益化【17日目】 | docs/free-articles/31-day17.md | 【16日目】、動画自動化記事、有料コンテンツ案内 |
 | noteの記事から、2種類のショート動画が自動でできました | docs/free-articles/32-video-automation-two-series.md | 【17日目】、異世界AI生活第4話、有料コンテンツ案内 |
-| ライトノベル「無職のおっさん、ラノベを書く」第1〜14話・異世界AI生活第1〜4話・Suno楽曲（本文は非収録） | NOTE_ARTICLES.md 内にリンクのみ | カクヨム、小説家になろう、Suno |
+| 「メンバーシップ」の記事だけ、スキ率が高くなりました｜note収益化【18日目】 | docs/free-articles/33-day18.md | 【17日目】、記事に困らない方法、有料コンテンツ案内 |
+| 記事やコンテンツに困らない方法 | docs/free-articles/34-content-never-runs-out.md | 【18日目】、異世界AI生活第5話、有料コンテンツ案内 |
+| ライトノベル「無職のおっさん、ラノベを書く」第1〜15話・異世界AI生活第1〜5話・Suno楽曲（本文は非収録） | NOTE_ARTICLES.md 内にリンクのみ | カクヨム、小説家になろう、Suno |
 | 記事インデックス（note側の記事一覧ページ） | NOTE_ARTICLES.md 内にリンクのみ | NOTE記事一覧 |
-| NOTE記事一覧（全48本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
+| NOTE記事一覧（全52本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
 
 ## AI活用
 

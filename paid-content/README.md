@@ -46,7 +46,7 @@
 - ショップ：ai-dialogue-lab（無職のおっさん｜AI共創実験室）
 - 公開日：2026年7月16日
 - 収録内容の案内：日本語のあいさつを、物語・イラスト・ローマ字・英語訳・歌で学ぶ日英バイリンガル教材。バイリンガル教材絵本PDF、ひらがな印刷用学習シートPDF、日本語版・英語版楽曲MP3を収録
-- Etsy版：2026年7月21日、Etsyショップ「AI Co-Creation Lab」の最初の商品として掲載。https://www.etsy.com/jp/listing/4540738569/from-good-morning-to-good-night-japanese
+- Etsy版：2026年7月21日、Etsyショップ「AI Co-Creation Lab」の最初の商品として掲載。2026年7月22日、検索での見つけやすさを意識し商品タイトルを「Japanese Learning Bundle for Kids: Bilingual Picture Book, Songs & Romaji PDF」へ変更。https://www.etsy.com/jp/listing/4540738569/from-good-morning-to-good-night-japanese
 
 ## Etsy商品（AI Co-Creation Lab）
 
