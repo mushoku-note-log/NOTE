@@ -38,7 +38,7 @@
 | 30 | フォロワー114人。でも読者は増えていません｜note収益化【12日目】 | 無料・日次報告 | - | 2026-07-17 | https://note.com/mushoku_note_log/n/nb523df2b2b8d | docs/free-articles/24-day12.md |
 | 31 | 無職のおっさん、ラノベを書く 第10話 | 無料・ライトノベル | - | 2026-07-18 | https://note.com/mushoku_note_log/n/nab120dc417f7 | リンクのみ（下記参照） |
 | 32 | 「何を書けばいいか分からない」が、いちばん読まれていました｜note収益化【13日目】 | 無料・日次報告 | - | 2026-07-18 | https://note.com/mushoku_note_log/n/n8fdb0b830823 | docs/free-articles/25-day13.md |
-| 33 | 記事インデックス | 無料・インデックス | - | 2026-07-18 | https://note.com/mushoku_note_log/n/n191b172b6447 | （本リポジトリのREADME.md・本ファイルに相当。個別の要約ファイルなし） |
+| 33 | 記事インデックス | 無料・インデックス | - | 2026-07-18 | https://note.com/mushoku_note_log/n/n191b172b6447 | docs/free-articles/38-article-index.md |
 | 34 | 普通のChatGPTとの会話だけで、記事・小説・音楽・商品まで作れました | 無料・制作記録 | - | 2026-07-19 | https://note.com/mushoku_note_log/n/n4206b6637384 | docs/free-articles/27-chatgpt-conversation-everything.md |
 | 35 | AIに相談した結果、自動生成動画のシリーズ化が始まりました｜note収益化【14日目】 | 無料・日次報告 | - | 2026-07-19 | https://note.com/mushoku_note_log/n/nd12a93555c81 | docs/free-articles/26-day14.md |
 | 36 | 無職のおっさん、ラノベを書く 第11話 | 無料・ライトノベル | - | 2026-07-19 | https://note.com/mushoku_note_log/n/n63d3b7576240 | リンクのみ（下記参照） |

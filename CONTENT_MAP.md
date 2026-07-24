@@ -50,7 +50,7 @@
 | AI生成で作ったイラストをChatGPTで美麗イラストに変換できちゃいました | docs/free-articles/36-illustration-enhancement.md | 【19日目】、漫画ができました記事、有料コンテンツ案内 |
 | AIに相談してたら漫画ができました | docs/free-articles/37-manga-created.md | 美麗イラスト記事、ラノベ第16話、有料コンテンツ案内 |
 | ライトノベル「無職のおっさん、ラノベを書く」第1〜16話・異世界AI生活第1〜5話・短編漫画・Suno楽曲（本文は非収録） | NOTE_ARTICLES.md 内にリンクのみ | カクヨム、小説家になろう、Suno |
-| 記事インデックス（note側の記事一覧ページ） | NOTE_ARTICLES.md 内にリンクのみ | NOTE記事一覧 |
+| 記事インデックス（note側の記事案内ページ） | docs/free-articles/38-article-index.md | 自己紹介記事、NOTE記事一覧 |
 | NOTE記事一覧（全56本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
 
 ## AI活用

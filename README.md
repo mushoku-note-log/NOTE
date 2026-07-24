@@ -64,6 +64,7 @@
 ### NOTE記事（無料公開部分）
 
 - [50代、無職、貯金は減る一方。今日からNOTEで「稼げるようになるまで」を全部さらします](docs/free-articles/01-self-introduction.md)
+- [記事インデックス（note側の記事案内ページ）](docs/free-articles/38-article-index.md)
 - [特に何もしていません。Threadsを眺めていただけです｜note収益化【1日目】](docs/free-articles/02-day1.md)
 - [【AI3体リレー】Perplexityで調べて、Claudeで書いて、Geminiで画像を作る。｜note収益化【2日目】（有料記事・無料部分）](docs/free-articles/03-day2-ai-relay-free-part.md)
 - [閲覧101・スキ12・フォロワー7、それでも売上はまだ0円です｜note収益化【3日目】](docs/free-articles/04-day3.md)
@@ -98,7 +99,7 @@
 - [AIに相談してたら漫画ができました](docs/free-articles/37-manga-created.md)
 - [NOTE記事一覧（全56本、タイトル・URL・価格）](NOTE_ARTICLES.md)
 
-ライトノベル「無職のおっさん、ラノベを書く」（第1〜16話）、新シリーズ『無職のおっさんの異世界AI生活』（第1〜5話）、Suno楽曲、短編漫画は、著作権保護のため本文・歌詞・図版を収録せず、[NOTE_ARTICLES.md](NOTE_ARTICLES.md) にリンクのみ記載しています。noteに直接公開している「記事インデックス」ページも[NOTE_ARTICLES.md](NOTE_ARTICLES.md)に記録しています。
+ライトノベル「無職のおっさん、ラノベを書く」（第1〜16話）、新シリーズ『無職のおっさんの異世界AI生活』（第1〜5話）、Suno楽曲、短編漫画は、著作権保護のため本文・歌詞・図版を収録せず、[NOTE_ARTICLES.md](NOTE_ARTICLES.md) にリンクのみ記載しています。
 
 ### AI活用・制作工程
 
