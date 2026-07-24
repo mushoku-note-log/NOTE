@@ -46,9 +46,12 @@
 | noteの記事から、2種類のショート動画が自動でできました | docs/free-articles/32-video-automation-two-series.md | 【17日目】、異世界AI生活第4話、有料コンテンツ案内 |
 | 「メンバーシップ」の記事だけ、スキ率が高くなりました｜note収益化【18日目】 | docs/free-articles/33-day18.md | 【17日目】、記事に困らない方法、有料コンテンツ案内 |
 | 記事やコンテンツに困らない方法 | docs/free-articles/34-content-never-runs-out.md | 【18日目】、異世界AI生活第5話、有料コンテンツ案内 |
-| ライトノベル「無職のおっさん、ラノベを書く」第1〜15話・異世界AI生活第1〜5話・Suno楽曲（本文は非収録） | NOTE_ARTICLES.md 内にリンクのみ | カクヨム、小説家になろう、Suno |
+| ChatGPTに相談していただけなのに、短編漫画と長編漫画ができました｜note収益化【19日目】 | docs/free-articles/35-day19.md | 【18日目】、美麗イラスト記事、有料コンテンツ案内 |
+| AI生成で作ったイラストをChatGPTで美麗イラストに変換できちゃいました | docs/free-articles/36-illustration-enhancement.md | 【19日目】、漫画ができました記事、有料コンテンツ案内 |
+| AIに相談してたら漫画ができました | docs/free-articles/37-manga-created.md | 美麗イラスト記事、ラノベ第16話、有料コンテンツ案内 |
+| ライトノベル「無職のおっさん、ラノベを書く」第1〜16話・異世界AI生活第1〜5話・短編漫画・Suno楽曲（本文は非収録） | NOTE_ARTICLES.md 内にリンクのみ | カクヨム、小説家になろう、Suno |
 | 記事インデックス（note側の記事一覧ページ） | NOTE_ARTICLES.md 内にリンクのみ | NOTE記事一覧 |
-| NOTE記事一覧（全52本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
+| NOTE記事一覧（全56本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
 
 ## AI活用
 
