@@ -49,9 +49,10 @@
 | ChatGPTに相談していただけなのに、短編漫画と長編漫画ができました｜note収益化【19日目】 | docs/free-articles/35-day19.md | 【18日目】、美麗イラスト記事、有料コンテンツ案内 |
 | AI生成で作ったイラストをChatGPTで美麗イラストに変換できちゃいました | docs/free-articles/36-illustration-enhancement.md | 【19日目】、漫画ができました記事、有料コンテンツ案内 |
 | AIに相談してたら漫画ができました | docs/free-articles/37-manga-created.md | 美麗イラスト記事、ラノベ第16話、有料コンテンツ案内 |
-| ライトノベル「無職のおっさん、ラノベを書く」第1〜16話・異世界AI生活第1〜5話・短編漫画・Suno楽曲（本文は非収録） | NOTE_ARTICLES.md 内にリンクのみ | カクヨム、小説家になろう、Suno |
 | 記事インデックス（note側の記事案内ページ） | docs/free-articles/38-article-index.md | 自己紹介記事、NOTE記事一覧 |
-| NOTE記事一覧（全56本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
+| 画像も漫画も作れました。でも売上は400円のまま｜note収益化【20日目】 | docs/free-articles/39-day20.md | 【19日目】、有料コンテンツ案内 |
+| ライトノベル「無職のおっさん、ラノベを書く」第1〜17話・異世界AI生活第1〜7話・短編漫画3本・美麗イラスト2本・Suno楽曲（本文は非収録） | NOTE_ARTICLES.md 内にリンクのみ | カクヨム、小説家になろう、Suno |
+| NOTE記事一覧（全65本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
 
 ## AI活用
 
@@ -96,6 +97,7 @@
 ## 外部リンク
 
 - note: https://note.com/mushoku_note_log
+- noteマガジン一覧: https://note.com/mushoku_note_log/magazines
 - BOOTH: https://ai-dialogue-lab.booth.pm/
 - Etsy（AI Co-Creation Lab）: https://www.etsy.com/jp/shop/AICoCreationLab
 - Amazon（Kindle）: https://www.amazon.co.jp/dp/B0H8ZJ13Y9
