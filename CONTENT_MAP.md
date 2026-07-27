@@ -51,9 +51,11 @@
 | AIに相談してたら漫画ができました | docs/free-articles/37-manga-created.md | 美麗イラスト記事、ラノベ第16話、有料コンテンツ案内 |
 | 記事インデックス（note側の記事案内ページ） | docs/free-articles/38-article-index.md | 自己紹介記事、NOTE記事一覧 |
 | 画像も漫画も作れました。でも売上は400円のまま｜note収益化【20日目】 | docs/free-articles/39-day20.md | 【19日目】、【21日目】、有料コンテンツ案内 |
-| 初めてコメントが3件つきました。きっかけは美麗イラストでした｜note収益化【21日目】 | docs/free-articles/40-day21.md | 【20日目】、有料コンテンツ案内 |
-| ライトノベル「無職のおっさん、ラノベを書く」第1〜17話・異世界AI生活第1〜8話・ちびっと！異世界AI生活第1話・短編漫画5本・美麗イラスト4本・Suno楽曲（本文は非収録） | NOTE_ARTICLES.md 内にリンクのみ | カクヨム、小説家になろう、Suno |
-| NOTE記事一覧（全73本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
+| 初めてコメントが3件つきました。きっかけは美麗イラストでした｜note収益化【21日目】 | docs/free-articles/40-day21.md | 【20日目】、【22日目】、有料コンテンツ案内 |
+| 収益化できるものは、すでに持っているのかもしれません｜note収益化【22日目】 | docs/free-articles/41-day22.md | 【21日目】、有料コンテンツ案内 |
+| 何を書けばいいか分からない、ネタがないと思っている人へ（有料・無料部分） | docs/free-articles/42-note-topic-howto-free-part.md | 自己紹介記事、記事ネタ記事、有料コンテンツ案内 |
+| ライトノベル「無職のおっさん、ラノベを書く」第1〜18話・異世界AI生活第1〜9話・ちびっと！異世界AI生活第1話・短編漫画6本・美麗イラスト4本・Suno楽曲（本文は非収録） | NOTE_ARTICLES.md 内にリンクのみ | カクヨム、小説家になろう、Suno |
+| NOTE記事一覧（全78本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
 
 ## AI活用
 
@@ -93,6 +95,8 @@
 | AIと相談しながら記事を作るスターターキット（BOOTH） | paid-content/README.md | 記事ネタ記事、記事制作の流れ |
 | なくした色を探す猫｜PDFぬりえ絵本（BOOTH／Kindle） | paid-content/README.md | 【11日目】、【13日目・第13話】 |
 | From Good Morning to Good Night｜バイリンガル教材絵本（BOOTH／Etsy） | paid-content/README.md | バイリンガル教材記事、【16日目】 |
+| 何を書けばいいか分からない、ネタがないと思っている人へ | paid-content/README.md | 自己紹介記事、記事ネタ記事（無料部分） |
+| AIとの対話から、記事・画像・動画・漫画まで増やす方法（有料マガジン） | paid-content/README.md | 記事ネタ記事、【22日目】 |
 | 除外コンテンツ一覧 | excluded_paid_content_manifest.md | 有料コンテンツ案内 |
 
 ## 外部リンク
@@ -101,6 +105,10 @@
 - noteマガジン一覧: https://note.com/mushoku_note_log/magazines
 - BOOTH: https://ai-dialogue-lab.booth.pm/
 - Etsy（AI Co-Creation Lab）: https://www.etsy.com/jp/shop/AICoCreationLab
+- pixiv: https://www.pixiv.net/users/127667724
+- ちちぷい: https://www.chichi-pui.com/users/user_tJrej5XX3G/
+- Painter AI: https://painter-ai.ai/ja/users/5a51ae7dc3
+- SeaArt: https://www.seaart.ai/user/39f3f4b7c2134f6870082e70eaa3834f
 - Amazon（Kindle）: https://www.amazon.co.jp/dp/B0H8ZJ13Y9
 - YouTube Shorts: https://www.youtube.com/@mushoku_note_log/shorts
 - カクヨム（作者ページ）: https://kakuyomu.jp/users/mushoku_note_log
