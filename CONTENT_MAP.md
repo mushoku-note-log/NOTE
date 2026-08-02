@@ -54,8 +54,10 @@
 | 初めてコメントが3件つきました。きっかけは美麗イラストでした｜note収益化【21日目】 | docs/free-articles/40-day21.md | 【20日目】、【22日目】、有料コンテンツ案内 |
 | 収益化できるものは、すでに持っているのかもしれません｜note収益化【22日目】 | docs/free-articles/41-day22.md | 【21日目】、有料コンテンツ案内 |
 | 何を書けばいいか分からない、ネタがないと思っている人へ（有料・無料部分） | docs/free-articles/42-note-topic-howto-free-part.md | 自己紹介記事、記事ネタ記事、有料コンテンツ案内 |
-| ライトノベル「無職のおっさん、ラノベを書く」第1〜18話・異世界AI生活第1〜9話・ちびっと！異世界AI生活第1話・短編漫画6本・美麗イラスト4本・Suno楽曲（本文は非収録） | NOTE_ARTICLES.md 内にリンクのみ | カクヨム、小説家になろう、Suno |
-| NOTE記事一覧（全78本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
+| 投稿を増やしすぎると、逆に読まれにくくなる気がしました｜note収益化【23日目】 | docs/free-articles/43-day23.md | 【22日目】、有料コンテンツ案内 |
+| コンテンツの幅が広がるnote画像の簡単な作り方（有料・無料部分） | docs/free-articles/44-note-image-howto-free-part.md | 【23日目】、有料コンテンツ案内 |
+| ライトノベル「無職のおっさん、ラノベを書く」第1〜19話・異世界AI生活第1〜9話・ちびっと！異世界AI生活第1話・短編漫画6本・美麗イラスト4本・Suno楽曲（本文は非収録） | NOTE_ARTICLES.md 内にリンクのみ | カクヨム、小説家になろう、Suno |
+| NOTE記事一覧（全81本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
 
 ## AI活用
 
@@ -97,6 +99,7 @@
 | From Good Morning to Good Night｜バイリンガル教材絵本（BOOTH／Etsy） | paid-content/README.md | バイリンガル教材記事、【16日目】 |
 | 何を書けばいいか分からない、ネタがないと思っている人へ | paid-content/README.md | 自己紹介記事、記事ネタ記事（無料部分） |
 | AIとの対話から、記事・画像・動画・漫画まで増やす方法（有料マガジン） | paid-content/README.md | 記事ネタ記事、【22日目】 |
+| コンテンツの幅が広がるnote画像の簡単な作り方 | paid-content/README.md | 【23日目】（無料部分） |
 | 除外コンテンツ一覧 | excluded_paid_content_manifest.md | 有料コンテンツ案内 |
 
 ## 外部リンク
