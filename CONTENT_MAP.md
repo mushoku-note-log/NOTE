@@ -56,8 +56,21 @@
 | 何を書けばいいか分からない、ネタがないと思っている人へ（有料・無料部分） | docs/free-articles/42-note-topic-howto-free-part.md | 自己紹介記事、記事ネタ記事、有料コンテンツ案内 |
 | 投稿を増やしすぎると、逆に読まれにくくなる気がしました｜note収益化【23日目】 | docs/free-articles/43-day23.md | 【22日目】、有料コンテンツ案内 |
 | コンテンツの幅が広がるnote画像の簡単な作り方（有料・無料部分） | docs/free-articles/44-note-image-howto-free-part.md | 【23日目】、有料コンテンツ案内 |
-| ライトノベル「無職のおっさん、ラノベを書く」第1〜19話・異世界AI生活第1〜9話・ちびっと！異世界AI生活第1話・短編漫画6本・美麗イラスト4本・Suno楽曲（本文は非収録） | NOTE_ARTICLES.md 内にリンクのみ | カクヨム、小説家になろう、Suno |
-| NOTE記事一覧（全81本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
+| 無料マガジンの小さなヒントを試した翌日、フォロワーが82人増えました｜note収益化【24日目】 | docs/free-articles/45-day24.md | 【23日目】、有料コンテンツ案内 |
+| 作文を一度も完成できなかった私が、AIでnote記事を毎日書けるようになった理由（有料・無料部分） | docs/free-articles/46-ai-writing-reason-free-part.md | 【25日目】、有料コンテンツ案内 |
+| バズを追いかけていたら、気がつけば漫画シリーズが生まれていました | docs/free-articles/47-manga-series-origin.md | 記事ネタ記事、有料コンテンツ案内 |
+| フォロワー324人。でも今日はまだ作業が進んでいません｜note収益化【25日目】 | docs/free-articles/48-day25.md | 【24日目】、有料コンテンツ案内 |
+| LINEスタンプを作ろうとしたら、24時間ほぼ成果なしでした｜note収益化【26日目】 | docs/free-articles/49-day26.md | 【25日目】、有料コンテンツ案内 |
+| ChatGPTに相談していたら、ショート動画をほぼ自動で作れるようになりました（有料・無料部分） | docs/free-articles/50-shortvideo-automation-free-part.md | 【26日目】、有料コンテンツ案内 |
+| LINEスタンプを作ろうとしたら、48時間たっても完成しません｜note収益化【27日目】 | docs/free-articles/51-day27.md | 【26日目】、有料コンテンツ案内 |
+| LINEスタンプも短編漫画も、いったん諦めました｜note収益化【28日目】 | docs/free-articles/52-day28.md | 【27日目】、有料コンテンツ案内 |
+| Stable Diffusionで昔の絵が作れなくなったので、「美麗イラスト生成・変換GPT」を作った話 | docs/free-articles/53-beautiful-illustration-gpt-stablediffusion-origin.md | 美麗イラストGPT記事、有料コンテンツ案内 |
+| 漫画シリーズが増えすぎました。作れるからこそ、ここで止めます｜note収益化【29日目】 | docs/free-articles/54-day29.md | 【28日目】、有料コンテンツ案内 |
+| 「美麗イラスト生成・変換GPT」は、ChatGPTとの雑談から生まれた | docs/free-articles/55-beautiful-illustration-gpt-chatgpt-origin.md | 美麗イラストGPT記事、有料コンテンツ案内 |
+| フォロワー534人。30日続けて分かったのは、「作る力」より「続ける仕組み」の方が大事でした｜note収益化【30日目】 | docs/free-articles/56-day30.md | 【29日目】、有料コンテンツ案内 |
+| フォロワー571人。でも増えたのは数字だけじゃありませんでした｜note収益化【31日目】 | docs/free-articles/57-day31.md | 【30日目】、有料コンテンツ案内 |
+| ライトノベル「無職のおっさん、ラノベを書く」第1〜21話・異世界AI生活第1〜9話・ちびっと！異世界AI生活第1話・短編漫画/フィクションマンガ・美麗イラスト（GPT作品含む）・科学トピック題材の漫画・Suno楽曲（本文は非収録） | NOTE_ARTICLES.md 内にリンクのみ | カクヨム、小説家になろう、Suno |
+| NOTE記事一覧（全111本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
 
 ## AI活用
 
@@ -100,6 +113,8 @@
 | 何を書けばいいか分からない、ネタがないと思っている人へ | paid-content/README.md | 自己紹介記事、記事ネタ記事（無料部分） |
 | AIとの対話から、記事・画像・動画・漫画まで増やす方法（有料マガジン） | paid-content/README.md | 記事ネタ記事、【22日目】 |
 | コンテンツの幅が広がるnote画像の簡単な作り方 | paid-content/README.md | 【23日目】（無料部分） |
+| 作文を一度も完成できなかった私が、AIでnote記事を毎日書けるようになった理由 | paid-content/README.md | 【25日目】（無料部分） |
+| ChatGPTに相談していたら、ショート動画をほぼ自動で作れるようになりました | paid-content/README.md | 【26日目】（無料部分） |
 | 除外コンテンツ一覧 | excluded_paid_content_manifest.md | 有料コンテンツ案内 |
 
 ## 外部リンク
@@ -110,6 +125,7 @@
 - Etsy（AI Co-Creation Lab）: https://www.etsy.com/jp/shop/AICoCreationLab
 - pixiv: https://www.pixiv.net/users/127667724
 - ちちぷい: https://www.chichi-pui.com/users/user_tJrej5XX3G/
+- Aipictors: https://www.aipictors.com/users/46e656ee-654e-686d-0cdc-0186f23856d8
 - Painter AI: https://painter-ai.ai/ja/users/5a51ae7dc3
 - SeaArt: https://www.seaart.ai/user/39f3f4b7c2134f6870082e70eaa3834f
 - Amazon（Kindle）: https://www.amazon.co.jp/dp/B0H8ZJ13Y9
