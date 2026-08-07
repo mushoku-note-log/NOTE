@@ -69,8 +69,12 @@
 | 「美麗イラスト生成・変換GPT」は、ChatGPTとの雑談から生まれた | docs/free-articles/55-beautiful-illustration-gpt-chatgpt-origin.md | 美麗イラストGPT記事、有料コンテンツ案内 |
 | フォロワー534人。30日続けて分かったのは、「作る力」より「続ける仕組み」の方が大事でした｜note収益化【30日目】 | docs/free-articles/56-day30.md | 【29日目】、有料コンテンツ案内 |
 | フォロワー571人。でも増えたのは数字だけじゃありませんでした｜note収益化【31日目】 | docs/free-articles/57-day31.md | 【30日目】、有料コンテンツ案内 |
-| ライトノベル「無職のおっさん、ラノベを書く」第1〜21話・異世界AI生活第1〜9話・ちびっと！異世界AI生活第1話・短編漫画/フィクションマンガ・美麗イラスト（GPT作品含む）・科学トピック題材の漫画・Suno楽曲（本文は非収録） | NOTE_ARTICLES.md 内にリンクのみ | カクヨム、小説家になろう、Suno |
-| NOTE記事一覧（全111本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
+| フォロワー607人。気づけば、作るだけでなく「作るためのAI」まで作っていました｜note収益化【32日目】 | docs/free-articles/58-day32.md | 【31日目】、有料コンテンツ案内 |
+| フォロワー641人。有料記事を出した。でも、ひとつも売れませんでした｜note収益化【33日目】 | docs/free-articles/59-day33.md | 【32日目】、有料コンテンツ案内 |
+| 毎回「もっと綺麗に」と打つのをやめる。美麗イラスト変換GPTの完成指示文（有料・無料部分） | docs/free-articles/60-beautiful-illustration-gpt-prompt-free-part.md | 【32日目】、美麗イラストGPT記事、有料コンテンツ案内 |
+| 漫画生成GPT（GPTs）作ってみた | docs/free-articles/61-manga-generator-gpt-trial.md | 【32日目】、有料コンテンツ案内 |
+| ライトノベル「無職のおっさん、ラノベを書く」第1〜21話・異世界AI生活第1〜9話・ちびっと！異世界AI生活第1話・短編漫画/フィクションマンガ（青春ラブコメ漫画含む）・美麗イラスト（GPT作品含む）・科学トピック題材の漫画・Suno楽曲（本文は非収録） | NOTE_ARTICLES.md 内にリンクのみ | カクヨム、小説家になろう、Suno |
+| NOTE記事一覧（全122本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
 
 ## AI活用
 
@@ -115,6 +119,7 @@
 | コンテンツの幅が広がるnote画像の簡単な作り方 | paid-content/README.md | 【23日目】（無料部分） |
 | 作文を一度も完成できなかった私が、AIでnote記事を毎日書けるようになった理由 | paid-content/README.md | 【25日目】（無料部分） |
 | ChatGPTに相談していたら、ショート動画をほぼ自動で作れるようになりました | paid-content/README.md | 【26日目】（無料部分） |
+| 毎回「もっと綺麗に」と打つのをやめる。美麗イラスト変換GPTの完成指示文 | paid-content/README.md | 【32日目】（無料部分） |
 | 除外コンテンツ一覧 | excluded_paid_content_manifest.md | 有料コンテンツ案内 |
 
 ## 外部リンク
