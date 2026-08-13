@@ -73,8 +73,17 @@
 | フォロワー641人。有料記事を出した。でも、ひとつも売れませんでした｜note収益化【33日目】 | docs/free-articles/59-day33.md | 【32日目】、有料コンテンツ案内 |
 | 毎回「もっと綺麗に」と打つのをやめる。美麗イラスト変換GPTの完成指示文（有料・無料部分） | docs/free-articles/60-beautiful-illustration-gpt-prompt-free-part.md | 【32日目】、美麗イラストGPT記事、有料コンテンツ案内 |
 | 漫画生成GPT（GPTs）作ってみた | docs/free-articles/61-manga-generator-gpt-trial.md | 【32日目】、有料コンテンツ案内 |
-| ライトノベル「無職のおっさん、ラノベを書く」第1〜21話・異世界AI生活第1〜9話・ちびっと！異世界AI生活第1話・短編漫画/フィクションマンガ（青春ラブコメ漫画含む）・美麗イラスト（GPT作品含む）・科学トピック題材の漫画・Suno楽曲（本文は非収録） | NOTE_ARTICLES.md 内にリンクのみ | カクヨム、小説家になろう、Suno |
-| NOTE記事一覧（全122本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
+| 「売れなかった」が一番読まれました。失敗談にビューとスキが集まった理由｜note収益化【34日目】 | docs/free-articles/62-day34.md | 【33日目】、有料コンテンツ案内 |
+| 「魚」ではなく「釣り方」を売りたい。でも、それは有料記事として伝わっているのだろうか | docs/free-articles/63-fish-vs-fishing-philosophy.md | 【34日目】、美麗イラストGPT完成指示文記事 |
+| アイデアはある。でも、売る場所がない。日本文化は海外で売れると思う｜note収益化【35日目】 | docs/free-articles/64-day35.md | 【34日目】、有料コンテンツ案内 |
+| 売れない理由は商品ではなく「売る場所」だった？BOOTHを見てマーケティングを考え直しました｜note収益化【36日目】 | docs/free-articles/65-day36.md | 【35日目】、有料コンテンツ案内 |
+| 1万ビューを超えた。でも売上は400円のまま。今度はBOOTHの商品を作っています｜note収益化【37日目】 | docs/free-articles/66-day37.md | 【36日目】、有料コンテンツ案内 |
+| BOOTHに、AI漫画とカスタムGPTのメイキング講座を出品しました | docs/free-articles/67-booth-manga-gpt-course-launch.md | 【37日目】、有料コンテンツ案内 |
+| フォロワー766人。BOOTHの商品をようやく公開しました。でも、まだ売れていません｜note収益化【38日目】 | docs/free-articles/68-day38.md | 【37日目】、BOOTH出品記事、有料コンテンツ案内 |
+| AI漫画とカスタムGPTのメイキング講座（固定記事） | docs/free-articles/69-manga-gpt-course-promo.md | BOOTH出品記事、【38日目】 |
+| コメントから商品ページを直しました。知らなかったnoteの機能も教えてもらいました｜note収益化【39日目】 | docs/free-articles/70-day39.md | 【38日目】、有料コンテンツ案内 |
+| ライトノベル「無職のおっさん、ラノベを書く」第1〜21話・異世界AI生活第1〜9話・ちびっと！異世界AI生活第1話・短編漫画/フィクションマンガ（猫漫画・青春ラブコメ漫画含む）・美麗イラスト（GPT作品含む）・科学トピック題材の漫画・Suno楽曲（本文は非収録） | NOTE_ARTICLES.md 内にリンクのみ | カクヨム、小説家になろう、Suno |
+| NOTE記事一覧（全149本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
 
 ## AI活用
 
