@@ -115,11 +115,12 @@
 | なくした色を探す猫｜PDFぬりえ絵本（BOOTH／Kindle） | paid-content/README.md | 【11日目】、【13日目・第13話】 |
 | From Good Morning to Good Night｜バイリンガル教材絵本（BOOTH／Etsy） | paid-content/README.md | バイリンガル教材記事、【16日目】 |
 | 何を書けばいいか分からない、ネタがないと思っている人へ | paid-content/README.md | 自己紹介記事、記事ネタ記事（無料部分） |
-| AIとの対話から、記事・画像・動画・漫画まで増やす方法（有料マガジン） | paid-content/README.md | 記事ネタ記事、【22日目】 |
+| AIとの対話から、記事・画像・動画・漫画まで増やす方法（有料マガジン、廃止） | paid-content/README.md | 記事ネタ記事、【22日目】 |
 | コンテンツの幅が広がるnote画像の簡単な作り方 | paid-content/README.md | 【23日目】（無料部分） |
 | 作文を一度も完成できなかった私が、AIでnote記事を毎日書けるようになった理由 | paid-content/README.md | 【25日目】（無料部分） |
 | ChatGPTに相談していたら、ショート動画をほぼ自動で作れるようになりました | paid-content/README.md | 【26日目】（無料部分） |
 | 毎回「もっと綺麗に」と打つのをやめる。美麗イラスト変換GPTの完成指示文 | paid-content/README.md | 【32日目】（無料部分） |
+| AIと対話していたら、カスタムGPTと漫画ができていた｜AI漫画メイキング講座（BOOTH） | paid-content/README.md | 漫画生成GPTの制作記録、美麗イラストGPT記事 |
 | 除外コンテンツ一覧 | excluded_paid_content_manifest.md | 有料コンテンツ案内 |
 
 ## 外部リンク
