@@ -82,8 +82,15 @@
 | フォロワー766人。BOOTHの商品をようやく公開しました。でも、まだ売れていません｜note収益化【38日目】 | docs/free-articles/68-day38.md | 【37日目】、BOOTH出品記事、有料コンテンツ案内 |
 | AI漫画とカスタムGPTのメイキング講座（固定記事） | docs/free-articles/69-manga-gpt-course-promo.md | BOOTH出品記事、【38日目】 |
 | コメントから商品ページを直しました。知らなかったnoteの機能も教えてもらいました｜note収益化【39日目】 | docs/free-articles/70-day39.md | 【38日目】、有料コンテンツ案内 |
+| 収益化実験なのに、毎日漫画を11話作っていました｜note収益化【40日目】 | docs/free-articles/71-day40.md | 【39日目】、有料コンテンツ案内 |
+| 美麗フィギュアギャラリー | docs/free-articles/72-beautiful-figure-gallery.md | 【40日目】、BOOTH商品更新記事 |
+| BOOTH商品を更新。完成指示文を5種類から10種類に増やしました | docs/free-articles/73-booth-update-10-prompts.md | BOOTH出品記事、【40日目】 |
+| 売れない現実と、どう向き合えばいいのか｜note収益化【41日目】 | docs/free-articles/74-day41.md | 【40日目】、有料コンテンツ案内 |
+| 売れないなら、もう無理に増やさない｜note収益化【42日目】 | docs/free-articles/75-day42.md | 【41日目】、有料コンテンツ案内 |
+| 初心者でも、無料ChatGPTでもできる超簡単、短編漫画講座（有料・無料部分、固定記事） | docs/free-articles/76-short-manga-course-free-part.md | 【42日目】、BOOTH商品更新記事、有料コンテンツ案内 |
+| 「漫画描いて」だけで漫画ができる。AIと対話していたら、またコンテンツが増えていた｜note収益化【43日目】 | docs/free-articles/77-day43.md | 【42日目】、有料コンテンツ案内 |
 | ライトノベル「無職のおっさん、ラノベを書く」第1〜21話・異世界AI生活第1〜9話・ちびっと！異世界AI生活第1話・短編漫画/フィクションマンガ（猫漫画・青春ラブコメ漫画含む）・美麗イラスト（GPT作品含む）・科学トピック題材の漫画・Suno楽曲（本文は非収録） | NOTE_ARTICLES.md 内にリンクのみ | カクヨム、小説家になろう、Suno |
-| NOTE記事一覧（全149本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
+| NOTE記事一覧（全168本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
 
 ## AI活用
 
@@ -129,7 +136,8 @@
 | 作文を一度も完成できなかった私が、AIでnote記事を毎日書けるようになった理由 | paid-content/README.md | 【25日目】（無料部分） |
 | ChatGPTに相談していたら、ショート動画をほぼ自動で作れるようになりました | paid-content/README.md | 【26日目】（無料部分） |
 | 毎回「もっと綺麗に」と打つのをやめる。美麗イラスト変換GPTの完成指示文 | paid-content/README.md | 【32日目】（無料部分） |
-| AIと対話していたら、カスタムGPTと漫画ができていた｜AI漫画メイキング講座（BOOTH） | paid-content/README.md | 漫画生成GPTの制作記録、美麗イラストGPT記事 |
+| AIと対話していたら、カスタムGPTと漫画ができていた｜AI漫画メイキング講座（BOOTH／Kindle） | paid-content/README.md | 漫画生成GPTの制作記録、美麗イラストGPT記事、BOOTH更新記事 |
+| 初心者でも、無料ChatGPTでもできる超簡単、短編漫画講座 | paid-content/README.md | 【42日目】（無料部分） |
 | 除外コンテンツ一覧 | excluded_paid_content_manifest.md | 有料コンテンツ案内 |
 
 ## 外部リンク
