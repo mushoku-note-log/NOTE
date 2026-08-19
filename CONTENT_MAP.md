@@ -87,10 +87,14 @@
 | BOOTH商品を更新。完成指示文を5種類から10種類に増やしました | docs/free-articles/73-booth-update-10-prompts.md | BOOTH出品記事、【40日目】 |
 | 売れない現実と、どう向き合えばいいのか｜note収益化【41日目】 | docs/free-articles/74-day41.md | 【40日目】、有料コンテンツ案内 |
 | 売れないなら、もう無理に増やさない｜note収益化【42日目】 | docs/free-articles/75-day42.md | 【41日目】、有料コンテンツ案内 |
-| 初心者でも、無料ChatGPTでもできる超簡単、短編漫画講座（有料・無料部分、固定記事） | docs/free-articles/76-short-manga-course-free-part.md | 【42日目】、BOOTH商品更新記事、有料コンテンツ案内 |
+| 初心者でも、無料ChatGPTでもできる超簡単、短編漫画講座（有料・無料部分、固定記事、現題「台本もコマ割りも不要。無料ChatGPTに『漫画作って』から始める短編漫画の作り方」） | docs/free-articles/76-short-manga-course-free-part.md | 【42日目】、BOOTH商品更新記事、有料コンテンツ案内 |
 | 「漫画描いて」だけで漫画ができる。AIと対話していたら、またコンテンツが増えていた｜note収益化【43日目】 | docs/free-articles/77-day43.md | 【42日目】、有料コンテンツ案内 |
+| Meta AIでも漫画ができた。Copilot、Geminiでも試して分かった「AI漫画はもっと簡単でいい」 | docs/free-articles/78-meta-ai-copilot-gemini-manga-comparison.md | 【43日目】、有料コンテンツ案内 |
+| 売れないから値下げする。その考えをやめました｜note収益化【44日目】 | docs/free-articles/79-day44.md | 【43日目】、有料コンテンツ案内 |
+| 画像生成AIに「プロンプトを入力する」時代は終わりつつある | docs/free-articles/80-prompt-era-ending.md | Meta AI漫画比較記事、【44日目】 |
+| 画像を1枚作ったら、AIが勝手に物語を始めた｜note収益化【45日目】 | docs/free-articles/81-day45.md | 【44日目】、有料コンテンツ案内 |
 | ライトノベル「無職のおっさん、ラノベを書く」第1〜21話・異世界AI生活第1〜9話・ちびっと！異世界AI生活第1話・短編漫画/フィクションマンガ（猫漫画・青春ラブコメ漫画含む）・美麗イラスト（GPT作品含む）・科学トピック題材の漫画・Suno楽曲（本文は非収録） | NOTE_ARTICLES.md 内にリンクのみ | カクヨム、小説家になろう、Suno |
-| NOTE記事一覧（全168本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
+| NOTE記事一覧（全178本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
 
 ## AI活用
 
