@@ -201,29 +201,36 @@
 
 ## NOTEアカウントと関連リンク
 
-| サービス | リンク |
-|---|---|
-| note（本体） | https://note.com/mushoku_note_log |
-| BOOTH（デジタル商品） | https://ai-dialogue-lab.booth.pm/ |
-| Etsy（AI Co-Creation Lab、海外向け） | https://www.etsy.com/jp/shop/AICoCreationLab |
-| Amazon（Kindle、なくした色を探す猫） | https://www.amazon.co.jp/dp/B0H8ZJ13Y9 |
-| カクヨム（作者ページ、全連載） | https://kakuyomu.jp/users/mushoku_note_log |
-| 小説家になろう（無職のおっさんの異世界AI生活） | https://ncode.syosetu.com/n4842mm/ |
-| pixiv | https://www.pixiv.net/users/127667724 |
-| ちちぷい（chichi-pui） | https://www.chichi-pui.com/users/user_tJrej5XX3G/ |
-| Aipictors | https://www.aipictors.com/users/46e656ee-654e-686d-0cdc-0186f23856d8 |
-| Painter AI | https://painter-ai.ai/ja/users/5a51ae7dc3 |
-| SeaArt | https://www.seaart.ai/user/39f3f4b7c2134f6870082e70eaa3834f |
-| YouTube | https://www.youtube.com/@mushoku_note_log |
-| X (Twitter) | https://x.com/50dainoossan |
-| Instagram | https://www.instagram.com/50daiossan/ |
-| Pinterest | https://jp.pinterest.com/mushoku_note_log/ |
-| Suno（音楽） | https://suno.com/@mushoku_note_log |
-| Spotify | https://open.spotify.com/user/31zynkvprsgudvgkl5t4xu5f5qbi |
-| SoundCloud | https://soundcloud.com/2ubv9wrigsoo |
-| TikTok | https://www.tiktok.com/@user8803912477949 |
+各SNS・投稿サイトのアカウント概要と最近の活動は、可能な範囲でGitHub上にもミラー記録しています（「GitHub記録」列）。取得できる情報が限られるプラットフォームはURL・アカウント名のみの記録です。
+
+| サービス | リンク | GitHub記録 |
+|---|---|---|
+| note（本体） | https://note.com/mushoku_note_log | [NOTE（本リポジトリ）](https://github.com/mushoku-note-log/NOTE) |
+| BOOTH（デジタル商品） | https://ai-dialogue-lab.booth.pm/ | [有料コンテンツ案内](paid-content/README.md) |
+| Etsy（AI Co-Creation Lab、海外向け） | https://www.etsy.com/jp/shop/AICoCreationLab | [有料コンテンツ案内](paid-content/README.md) |
+| Amazon（Kindle） | https://www.amazon.co.jp/dp/B0H8ZJ13Y9 ／ https://www.amazon.co.jp/dp/B0HDSLDTKN | [有料コンテンツ案内](paid-content/README.md) |
+| Patreon（AICoCreationLab、2026年8月22日登録） | https://www.patreon.com/cw/AICoCreationLab | [SNS-Patreon](https://github.com/mushoku-note-log/SNS-Patreon) |
+| カクヨム（作者ページ、全連載） | https://kakuyomu.jp/users/mushoku_note_log | - |
+| 小説家になろう（無職のおっさんの異世界AI生活） | https://ncode.syosetu.com/n4842mm/ | - |
+| pixiv | https://www.pixiv.net/users/127667724 | [SNS-pixiv](https://github.com/mushoku-note-log/SNS-pixiv) |
+| ちちぷい（chichi-pui） | https://www.chichi-pui.com/users/user_tJrej5XX3G/ | [SNS-chichipui](https://github.com/mushoku-note-log/SNS-chichipui) |
+| Aipictors | https://www.aipictors.com/users/46e656ee-654e-686d-0cdc-0186f23856d8 | [SNS-Aipictors](https://github.com/mushoku-note-log/SNS-Aipictors) |
+| Painter AI | https://painter-ai.ai/ja/users/5a51ae7dc3 | [SNS-PainterAI](https://github.com/mushoku-note-log/SNS-PainterAI) |
+| SeaArt | https://www.seaart.ai/user/39f3f4b7c2134f6870082e70eaa3834f | [SNS-SeaArt](https://github.com/mushoku-note-log/SNS-SeaArt) |
+| YouTube | https://www.youtube.com/@mushoku_note_log | - |
+| X (Twitter) | https://x.com/50dainoossan | [SNS-X](https://github.com/mushoku-note-log/SNS-X) |
+| Instagram | https://www.instagram.com/50daiossan/ | [SNS-Instagram](https://github.com/mushoku-note-log/SNS-Instagram) |
+| Facebook（2026年8月23日確認） | https://www.facebook.com/profile.php?id=61591657445920 | [SNS-Facebook](https://github.com/mushoku-note-log/SNS-Facebook) |
+| Medium（英語圏向けミラー、2026年8月23日確認） | https://medium.com/@shave0214 | [SNS-Medium](https://github.com/mushoku-note-log/SNS-Medium) |
+| Pinterest | https://jp.pinterest.com/mushoku_note_log/ | - |
+| Suno（音楽） | https://suno.com/@mushoku_note_log | - |
+| Spotify | https://open.spotify.com/user/31zynkvprsgudvgkl5t4xu5f5qbi | - |
+| SoundCloud | https://soundcloud.com/2ubv9wrigsoo | - |
+| TikTok | https://www.tiktok.com/@user8803912477949 | - |
 
 *Threads (@50daiossan) は本人確認の問題により2026年7月11日にアカウント停止されました。*
+
+**pixivでの重要な注記**：小説「無職のおっさんの異世界AI生活」は、pixiv上では文字小説版が先行して連載されており、2026年8月23日時点で第36話まで公開済みです。本リポジトリ（note側の動画公開状況）は第9話までしか反映していません。詳細は[SNS-pixiv](https://github.com/mushoku-note-log/SNS-pixiv)を参照してください。
 
 ## 著作権について
 
