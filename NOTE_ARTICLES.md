@@ -2,7 +2,7 @@
 
 [← トップページへ戻る](README.md)
 
-公開済みnote記事一覧（2026年8月19日時点、178本）。有料記事は無料公開部分の概要のみ記載。詳細な要約は `docs/free-articles/` を参照。タイトルは2026年7月18日以降、著者による改題を反映した最新のものです（旧タイトルは `PROJECT_HISTORY.md` の該当日を参照）。2026年8月上旬、note側のアカウント表示名が「無職のおっさんの黄昏」に変わり、2026年8月19日時点ではさらに「無職のおっさんの黄昏AI創作」に変わっていることを確認していますが、記事の内容・著者情報は従来の企画（note収益化実験）と連続しているため、本表では引き続き同一企画として扱っています（詳細は `PROJECT_HISTORY.md` 2026年8月5日の記録を参照）。
+公開済みnote記事一覧（2026年8月23日時点、184本）。有料記事は無料公開部分の概要のみ記載。詳細な要約は `docs/free-articles/` を参照。タイトルは2026年7月18日以降、著者による改題を反映した最新のものです（旧タイトルは `PROJECT_HISTORY.md` の該当日を参照）。2026年8月上旬、note側のアカウント表示名が「無職のおっさんの黄昏」に変わり、2026年8月19日時点ではさらに「無職のおっさんの黄昏AI創作」に変わっていることを確認していますが、記事の内容・著者情報は従来の企画（note収益化実験）と連続しているため、本表では引き続き同一企画として扱っています（詳細は `PROJECT_HISTORY.md` 2026年8月5日の記録を参照）。
 
 | # | タイトル | 種別 | 価格 | 公開日 | URL | 概要ファイル |
 |---|---|---|---|---|---|---|
@@ -184,6 +184,12 @@
 | 176 | 画像を1枚作ったら、AIが勝手に物語を始めた｜note収益化【45日目】 | 無料・日次報告 | - | 2026-08-19 | https://note.com/mushoku_note_log/n/nc8916c33a31a | docs/free-articles/81-day45.md |
 | 177 | 豊かな森を失った国 | 無料・科学漫画 | - | 2026-08-19 | https://note.com/mushoku_note_log/n/nce6e740684ff | リンクのみ（下記参照） |
 | 178 | 猫漫画コンテンツ6シリーズ | 無料・フィクションマンガ（シリーズ索引） | - | 2026-08-19 | https://note.com/mushoku_note_log/n/n34bf503e399e | リンクのみ（下記参照） |
+| 179 | AIランキング上位を独占。でも私はプロンプトを書いていない｜note収益化【46日目】 | 無料・日次報告 | - | 2026-08-20 | https://note.com/mushoku_note_log/n/ndf520b91e7f4 | docs/free-articles/82-day46.md |
+| 180 | 画像生成AIは「どれが一番？」ではなく、作り方で選べばいい | 無料・制作記録 | - | 2026-08-20 | https://note.com/mushoku_note_log/n/n61c6ae7d4076 | docs/free-articles/83-image-ai-comparison-by-workflow.md |
+| 181 | 初心者は何を売ればいい？47日目で今さら分からなくなった｜note収益化【47日目】 | 無料・日次報告 | - | 2026-08-21 | https://note.com/mushoku_note_log/n/n669fc9644ccd | docs/free-articles/84-day47.md |
+| 182 | 見えない命の土台 | 有料 | ¥500（セール¥400、〜8/31） | 2026-08-21 | https://note.com/mushoku_note_log/n/nd2298189c14d | docs/free-articles/85-invisible-foundation-of-life-free-part.md |
+| 183 | 何を売ればいいのか分からない。そもそもnoteで売る必要ある？｜note収益化【48日目】 | 無料・日次報告 | - | 2026-08-22 | https://note.com/mushoku_note_log/n/ne5ca51d50d0a | docs/free-articles/86-day48.md |
+| 184 | 売れるのは「将来の価値」より「今すぐ使えるもの」なのか｜note収益化【49日目】 | 無料・日次報告 | - | 2026-08-23 | https://note.com/mushoku_note_log/n/ncf05c99a78f5 | docs/free-articles/87-day49.md |
 
 ## ライトノベル・楽曲について
 

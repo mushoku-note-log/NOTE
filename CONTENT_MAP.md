@@ -93,8 +93,14 @@
 | 売れないから値下げする。その考えをやめました｜note収益化【44日目】 | docs/free-articles/79-day44.md | 【43日目】、有料コンテンツ案内 |
 | 画像生成AIに「プロンプトを入力する」時代は終わりつつある | docs/free-articles/80-prompt-era-ending.md | Meta AI漫画比較記事、【44日目】 |
 | 画像を1枚作ったら、AIが勝手に物語を始めた｜note収益化【45日目】 | docs/free-articles/81-day45.md | 【44日目】、有料コンテンツ案内 |
+| AIランキング上位を独占。でも私はプロンプトを書いていない｜note収益化【46日目】 | docs/free-articles/82-day46.md | 【45日目】、有料コンテンツ案内 |
+| 画像生成AIは「どれが一番？」ではなく、作り方で選べばいい | docs/free-articles/83-image-ai-comparison-by-workflow.md | 【46日目】、プロンプト時代終わり記事 |
+| 初心者は何を売ればいい？47日目で今さら分からなくなった｜note収益化【47日目】 | docs/free-articles/84-day47.md | 【46日目】、有料コンテンツ案内 |
+| 見えない命の土台（有料・無料部分） | docs/free-articles/85-invisible-foundation-of-life-free-part.md | 【47日目】、有料コンテンツ案内 |
+| 何を売ればいいのか分からない。そもそもnoteで売る必要ある？｜note収益化【48日目】 | docs/free-articles/86-day48.md | 【47日目】、有料コンテンツ案内 |
+| 売れるのは「将来の価値」より「今すぐ使えるもの」なのか｜note収益化【49日目】 | docs/free-articles/87-day49.md | 【48日目】、有料コンテンツ案内 |
 | ライトノベル「無職のおっさん、ラノベを書く」第1〜21話・異世界AI生活第1〜9話・ちびっと！異世界AI生活第1話・短編漫画/フィクションマンガ（猫漫画・青春ラブコメ漫画含む）・美麗イラスト（GPT作品含む）・科学トピック題材の漫画・Suno楽曲（本文は非収録） | NOTE_ARTICLES.md 内にリンクのみ | カクヨム、小説家になろう、Suno |
-| NOTE記事一覧（全178本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
+| NOTE記事一覧（全184本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
 
 ## AI活用
 
@@ -142,6 +148,7 @@
 | 毎回「もっと綺麗に」と打つのをやめる。美麗イラスト変換GPTの完成指示文 | paid-content/README.md | 【32日目】（無料部分） |
 | AIと対話していたら、カスタムGPTと漫画ができていた｜AI漫画メイキング講座（BOOTH／Kindle） | paid-content/README.md | 漫画生成GPTの制作記録、美麗イラストGPT記事、BOOTH更新記事 |
 | 初心者でも、無料ChatGPTでもできる超簡単、短編漫画講座 | paid-content/README.md | 【42日目】（無料部分） |
+| 見えない命の土台 | paid-content/README.md | 【47日目】（無料部分） |
 | 除外コンテンツ一覧 | excluded_paid_content_manifest.md | 有料コンテンツ案内 |
 
 ## 外部リンク
