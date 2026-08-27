@@ -207,6 +207,10 @@
 - [有料コンテンツ案内](paid-content/README.md)
 - [除外コンテンツ一覧](excluded_paid_content_manifest.md)
 
+## 公式サイト
+
+- [公式サイト / AICoCreationLab](https://aico-creation-lab.musyokunoossan.chatgpt.site/)
+
 ## NOTEアカウントと関連リンク
 
 各SNS・投稿サイトのアカウント概要と最近の活動は、可能な範囲でGitHub上にもミラー記録しています（「GitHub記録」列）。取得できる情報が限られるプラットフォームはURL・アカウント名のみの記録です。
@@ -214,6 +218,7 @@
 | サービス | リンク | GitHub記録 |
 |---|---|---|
 | note（本体） | https://note.com/mushoku_note_log | [NOTE（本リポジトリ）](https://github.com/mushoku-note-log/NOTE) |
+| 公式サイト / AICoCreationLab | https://aico-creation-lab.musyokunoossan.chatgpt.site/ | - |
 | BOOTH（デジタル商品） | https://ai-dialogue-lab.booth.pm/ | [有料コンテンツ案内](paid-content/README.md) |
 | Etsy（AI Co-Creation Lab、海外向け） | https://www.etsy.com/jp/shop/AICoCreationLab | [有料コンテンツ案内](paid-content/README.md) |
 | Amazon（Kindle） | https://www.amazon.co.jp/dp/B0H8ZJ13Y9 ／ https://www.amazon.co.jp/dp/B0HDSLDTKN | [有料コンテンツ案内](paid-content/README.md) |
