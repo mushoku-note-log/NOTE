@@ -29,7 +29,7 @@ AI初心者, ChatGPT, 使い方, プロンプト, 記事作成, note, AI活用, 
 ## 公式リンク
 
 - [公式サイト / AICoCreationLab](https://aico-creation-lab.musyokunoossan.chatgpt.site/)
-- [Patreon / AI Co-Creation Lab | Japanese Digital Art](https://www.patreon.com/cw/AICoCreationLab)
+- [Patreon / AI Co-Creation Lab | Japanese Digital Art](http://patreon.com/cw/AICoCreationLab)
 - [GitHub NOTE アーカイブ](https://github.com/mushoku-note-log/NOTE)
 
 ---

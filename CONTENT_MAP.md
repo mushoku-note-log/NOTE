@@ -161,7 +161,7 @@
 
 - note: https://note.com/mushoku_note_log
 - 公式サイト / AICoCreationLab: https://aico-creation-lab.musyokunoossan.chatgpt.site/
-- Patreon: https://www.patreon.com/cw/AICoCreationLab
+- Patreon: http://patreon.com/cw/AICoCreationLab
 - noteマガジン一覧: https://note.com/mushoku_note_log/magazines
 - BOOTH: https://ai-dialogue-lab.booth.pm/
 - Etsy（AI Co-Creation Lab）: https://www.etsy.com/jp/shop/AICoCreationLab
