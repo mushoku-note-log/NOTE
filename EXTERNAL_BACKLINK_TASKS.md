@@ -2,6 +2,25 @@
 
 GitHubリポジトリ側から外部ページへはリンクできますが、逆方向（note・BOOTH・YouTube・カクヨム側にGitHubへのリンクを貼る作業）は、それぞれのサービス上で本人が行う必要があります。ページごとに、追加を推奨するGitHubリンクをまとめました。
 
+## 公式サイト / Patreon
+
+### 公式サイト / AICoCreationLab
+
+外部URL：https://aico-creation-lab.musyokunoossan.chatgpt.site/
+
+追加推奨GitHubリンク：
+- https://github.com/mushoku-note-log/NOTE/blob/main/docs/platforms/aico-creation-lab.md
+- https://github.com/mushoku-note-log/SNS-Patreon
+
+### Patreon / AI Co-Creation Lab | Japanese Digital Art
+
+外部URL：https://www.patreon.com/cw/AICoCreationLab
+
+追加推奨GitHubリンク：
+- https://github.com/mushoku-note-log/SNS-Patreon
+- https://github.com/mushoku-note-log/SNS-Patreon/blob/main/docs/profile.md
+- https://github.com/mushoku-note-log/SNS-Patreon/blob/main/docs/cross-platform-art-signals.md
+
 ## NOTE記事（無料）
 
 ### 50代、無職、貯金は減る一方。今日からNOTEで「稼げるようになるまで」を全部さらします

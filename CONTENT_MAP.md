@@ -130,6 +130,7 @@
 
 | ページ | ファイルパス | 関連記事 |
 |---|---|---|
+| 公式サイト・Patreon導線 | docs/platforms/aico-creation-lab.md | SNS-Patreon、公式サイト、外部投稿サイト |
 | SNS投稿記録 | docs/social-posts/README.md | 運営ルール、Threads投稿5本 |
 | Threads投稿ログ（2026-07-07） | docs/social-posts/threads/2026-07-07_threads.md | 【1日目】 |
 | Threads投稿案（2026-07-08） | docs/social-posts/threads/2026-07-08_threads.md | 【3日目】 |
@@ -159,6 +160,8 @@
 ## 外部リンク
 
 - note: https://note.com/mushoku_note_log
+- 公式サイト / AICoCreationLab: https://aico-creation-lab.musyokunoossan.chatgpt.site/
+- Patreon: https://www.patreon.com/cw/AICoCreationLab
 - noteマガジン一覧: https://note.com/mushoku_note_log/magazines
 - BOOTH: https://ai-dialogue-lab.booth.pm/
 - Etsy（AI Co-Creation Lab）: https://www.etsy.com/jp/shop/AICoCreationLab
