@@ -42,7 +42,7 @@ Perplexity（リサーチ・競合調査）／Claude・Claude Code（記事制�
 ### 公式サイト / AICoCreationLab
 
 https://aico-creation-lab.musyokunoossan.chatgpt.site/
-- [Patreon / AI Co-Creation Lab | Japanese Digital Art](https://www.patreon.com/cw/AICoCreationLab)
+- [Patreon / AI Co-Creation Lab | Japanese Digital Art](http://patreon.com/cw/AICoCreationLab)
 
 ### AIと相談しながら記事を作るスターターキット｜記事ネタもプロンプトもない人向け
 

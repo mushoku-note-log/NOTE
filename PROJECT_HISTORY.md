@@ -361,7 +361,7 @@
 
 - 【49日目】記事公開。フォロワー877人、累計売上400円のまま
 - [公式サイト / AICoCreationLab](https://aico-creation-lab.musyokunoossan.chatgpt.site/)
-- **海外のPatreonに登録し、イラストを投稿開始**（アカウント名「AICoCreationLab — イラスト画集」、https://www.patreon.com/cw/AICoCreationLab ）。前日の「適した場所へ出す」という結論を実行に移した形。ただし「場所を変えても存在を知られなければ見てもらえない」という課題は残ると総括
+- **海外のPatreonに登録し、イラストを投稿開始**（アカウント名「AICoCreationLab — イラスト画集」、http://patreon.com/cw/AICoCreationLab ）。前日の「適した場所へ出す」という結論を実行に移した形。ただし「場所を変えても存在を知られなければ見てもらえない」という課題は残ると総括
 - **note側の「猫漫画コンテンツ」「青春ラブコメ漫画」「ChatGPTで作れる美麗画像ギャラリー」の3マガジンが、いずれも収録0本になり「patreonへ移動しました」という説明に変わっていることを確認**（詳細は後述の補足参照）
 
 ## 2026年8月23日：SNSアカウント群をGitHub上に個別リポジトリとしてミラー化

@@ -28,7 +28,7 @@ Meta AI, Copilot, Gemini, ChatGPT, AI漫画, 漫画制作, 生成AI比較
 ## 公式リンク
 
 - [公式サイト / AICoCreationLab](https://aico-creation-lab.musyokunoossan.chatgpt.site/)
-- [Patreon / AI Co-Creation Lab | Japanese Digital Art](https://www.patreon.com/cw/AICoCreationLab)
+- [Patreon / AI Co-Creation Lab | Japanese Digital Art](http://patreon.com/cw/AICoCreationLab)
 - [GitHub NOTE アーカイブ](https://github.com/mushoku-note-log/NOTE)
 
 ---

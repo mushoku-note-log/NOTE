@@ -224,7 +224,7 @@
 | BOOTH（デジタル商品） | https://ai-dialogue-lab.booth.pm/ | [有料コンテンツ案内](paid-content/README.md) |
 | Etsy（AI Co-Creation Lab、海外向け） | https://www.etsy.com/jp/shop/AICoCreationLab | [有料コンテンツ案内](paid-content/README.md) |
 | Amazon（Kindle） | https://www.amazon.co.jp/dp/B0H8ZJ13Y9 ／ https://www.amazon.co.jp/dp/B0HDSLDTKN | [有料コンテンツ案内](paid-content/README.md) |
-| Patreon（AICoCreationLab、2026年8月22日登録） | https://www.patreon.com/cw/AICoCreationLab | [SNS-Patreon](https://github.com/mushoku-note-log/SNS-Patreon) |
+| Patreon（AICoCreationLab、2026年8月22日登録） | http://patreon.com/cw/AICoCreationLab | [SNS-Patreon](https://github.com/mushoku-note-log/SNS-Patreon) |
 | カクヨム（作者ページ、全連載） | https://kakuyomu.jp/users/mushoku_note_log | - |
 | 小説家になろう（無職のおっさんの異世界AI生活） | https://ncode.syosetu.com/n4842mm/ | - |
 | pixiv | https://www.pixiv.net/users/127667724 | [SNS-pixiv](https://github.com/mushoku-note-log/SNS-pixiv) |

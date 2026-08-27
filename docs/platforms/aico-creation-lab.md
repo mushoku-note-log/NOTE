@@ -7,7 +7,7 @@ AI Co-Creation Lab の公式サイト、Patreon、GitHub記録、関連SNSをま
 | 種別 | URL | GitHub記録 |
 |---|---|---|
 | 公式サイト / AICoCreationLab | https://aico-creation-lab.musyokunoossan.chatgpt.site/ | このページ |
-| Patreon / AI Co-Creation Lab | https://www.patreon.com/cw/AICoCreationLab | [SNS-Patreon](https://github.com/mushoku-note-log/SNS-Patreon) |
+| Patreon / AI Co-Creation Lab | http://patreon.com/cw/AICoCreationLab | [SNS-Patreon](https://github.com/mushoku-note-log/SNS-Patreon) |
 | NOTEアーカイブ | https://note.com/mushoku_note_log | [NOTE](https://github.com/mushoku-note-log/NOTE) |
 | ちちぷい | https://www.chichi-pui.com/users/user_tJrej5XX3G/ | [SNS-chichipui](https://github.com/mushoku-note-log/SNS-chichipui) |
 | pixiv | https://www.pixiv.net/users/127667724 | [SNS-pixiv](https://github.com/mushoku-note-log/SNS-pixiv) |

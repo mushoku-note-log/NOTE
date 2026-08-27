@@ -26,7 +26,7 @@ ChatGPT, カスタムGPT, GPTs, 漫画生成GPT, AI漫画, ラブコメ漫画, �
 ## 公式リンク
 
 - [公式サイト / AICoCreationLab](https://aico-creation-lab.musyokunoossan.chatgpt.site/)
-- [Patreon / AI Co-Creation Lab | Japanese Digital Art](https://www.patreon.com/cw/AICoCreationLab)
+- [Patreon / AI Co-Creation Lab | Japanese Digital Art](http://patreon.com/cw/AICoCreationLab)
 - [GitHub NOTE アーカイブ](https://github.com/mushoku-note-log/NOTE)
 
 ---

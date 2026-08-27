@@ -74,7 +74,7 @@ AIから出た提案が、自分の性格・予算・実績と矛盾する場合
 ## 公式リンク
 
 - [公式サイト / AICoCreationLab](https://aico-creation-lab.musyokunoossan.chatgpt.site/)
-- [Patreon / AI Co-Creation Lab | Japanese Digital Art](https://www.patreon.com/cw/AICoCreationLab)
+- [Patreon / AI Co-Creation Lab | Japanese Digital Art](http://patreon.com/cw/AICoCreationLab)
 - [GitHub NOTE アーカイブ](https://github.com/mushoku-note-log/NOTE)
 
 ---

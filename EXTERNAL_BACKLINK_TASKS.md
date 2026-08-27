@@ -14,7 +14,7 @@ GitHubリポジトリ側から外部ページへはリンクできますが、�
 
 ### Patreon / AI Co-Creation Lab | Japanese Digital Art
 
-外部URL：https://www.patreon.com/cw/AICoCreationLab
+外部URL：http://patreon.com/cw/AICoCreationLab
 
 追加推奨GitHubリンク：
 - https://github.com/mushoku-note-log/SNS-Patreon
