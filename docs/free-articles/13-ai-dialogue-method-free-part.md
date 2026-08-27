@@ -30,6 +30,14 @@ AI初心者, note, 副業, 収益化, プロンプト, ChatGPT
 
 ---
 
+## 公式リンク
+
+- [公式サイト / AICoCreationLab](https://aico-creation-lab.musyokunoossan.chatgpt.site/)
+- [Patreon / AI Co-Creation Lab | Japanese Digital Art](https://www.patreon.com/cw/AICoCreationLab)
+- [GitHub NOTE アーカイブ](https://github.com/mushoku-note-log/NOTE)
+
+---
+
 ## 著者
 
 無職のおっさん。AIとの対話から、記事・ラノベ・画像・音楽・教材・動画・漫画まで制作中。

@@ -26,6 +26,14 @@ ChatGPT, Gemini, Copilot, Meta AI, Dola, 画像生成AI, AI比較, ワークフ�
 
 ---
 
+## 公式リンク
+
+- [公式サイト / AICoCreationLab](https://aico-creation-lab.musyokunoossan.chatgpt.site/)
+- [Patreon / AI Co-Creation Lab | Japanese Digital Art](https://www.patreon.com/cw/AICoCreationLab)
+- [GitHub NOTE アーカイブ](https://github.com/mushoku-note-log/NOTE)
+
+---
+
 ## 著者
 
 無職のおっさんの黄昏AI創作

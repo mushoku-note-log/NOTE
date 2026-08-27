@@ -25,6 +25,14 @@ AI助言, ChatGPT, 相談ログ, 問題解決, 制作工程, note収益化
 
 ---
 
+## 公式リンク
+
+- [公式サイト / AICoCreationLab](https://aico-creation-lab.musyokunoossan.chatgpt.site/)
+- [Patreon / AI Co-Creation Lab | Japanese Digital Art](https://www.patreon.com/cw/AICoCreationLab)
+- [GitHub NOTE アーカイブ](https://github.com/mushoku-note-log/NOTE)
+
+---
+
 ## 著者
 
 無職のおっさんの黄昏AI創作

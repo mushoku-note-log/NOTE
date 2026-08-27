@@ -192,6 +192,8 @@
 - [2026年7月11日（6日目、Threads停止）](docs/project-log/2026-07-11.md)
 - [2026年7月12日（7日目、BOOTH開設）](docs/project-log/2026-07-12.md)
 
+- [公式サイト・Patreon導線](docs/platforms/aico-creation-lab.md)
+
 ### SNS・動画・ラノベ
 
 - [SNS投稿記録](docs/social-posts/README.md)
@@ -218,7 +220,7 @@
 | サービス | リンク | GitHub記録 |
 |---|---|---|
 | note（本体） | https://note.com/mushoku_note_log | [NOTE（本リポジトリ）](https://github.com/mushoku-note-log/NOTE) |
-| 公式サイト / AICoCreationLab | https://aico-creation-lab.musyokunoossan.chatgpt.site/ | - |
+| 公式サイト / AICoCreationLab | https://aico-creation-lab.musyokunoossan.chatgpt.site/ | [公式サイト・Patreon導線](docs/platforms/aico-creation-lab.md) |
 | BOOTH（デジタル商品） | https://ai-dialogue-lab.booth.pm/ | [有料コンテンツ案内](paid-content/README.md) |
 | Etsy（AI Co-Creation Lab、海外向け） | https://www.etsy.com/jp/shop/AICoCreationLab | [有料コンテンツ案内](paid-content/README.md) |
 | Amazon（Kindle） | https://www.amazon.co.jp/dp/B0H8ZJ13Y9 ／ https://www.amazon.co.jp/dp/B0HDSLDTKN | [有料コンテンツ案内](paid-content/README.md) |
