@@ -99,13 +99,23 @@
 | 見えない命の土台（有料・無料部分） | docs/free-articles/85-invisible-foundation-of-life-free-part.md | 【47日目】、有料コンテンツ案内 |
 | 何を売ればいいのか分からない。そもそもnoteで売る必要ある？｜note収益化【48日目】 | docs/free-articles/86-day48.md | 【47日目】、有料コンテンツ案内 |
 | 売れるのは「将来の価値」より「今すぐ使えるもの」なのか｜note収益化【49日目】 | docs/free-articles/87-day49.md | 【48日目】、有料コンテンツ案内 |
-| 「誰かの困りごとを解く」が分からない。私の普通は、他人の普通ではなかった｜note収益化【50日目】 | docs/free-articles/88-day50.md | 【49日目】、Patreon |
-| 「何を売るか」より先に、「私は何をしている人なのか」｜note収益化【51日目】 | docs/free-articles/89-day51.md | 【50日目】、AI助言記事 |
-| AIに助言を受けてみた | docs/free-articles/90-ai-advice.md | 【50日目】、【51日目】 |
-| AIを「使う」のではなく、最初から対等なパートナーとして育ててきた｜note収益化【52日目】 | docs/free-articles/91-day52.md | 【51日目】、AI助言記事 |
-| 1枚のキャラ設定から、ほとんど指示せず絵本になった｜note収益化【53日目】 | docs/free-articles/92-day53.md | 【52日目】、Meta AI |
-| ライトノベル「無職のおっさん、ラノベを書く」第1〜21話・異世界AI生活第1〜9話・ちびっと！異世界AI生活第1話・短編漫画/フィクションマンガ（猫漫画・青春ラブコメ漫画含む）・美麗イラスト（GPT作品含む）・科学トピック題材の漫画・Suno楽曲（本文は非収録） | NOTE_ARTICLES.md 内にリンクのみ | カクヨム、小説家になろう、Suno |
-| NOTE記事一覧（全191本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
+| 「誰かの困りごとを解く」が分からない。私の普通は、他人の普通ではなかった｜note収益化【50日目】 | docs/free-articles/88-day50.md | 【49日目】、有料コンテンツ案内 |
+| 「何を売るか」より先に、「私は何をしている人なのか」｜note収益化【51日目】 | docs/free-articles/89-day51.md | 【50日目】、有料コンテンツ案内 |
+| AIに助言を受けてみた | docs/free-articles/98-ai-advice-received.md | 【50日目】 |
+| AIを「使う」のではなく、最初から対等なパートナーとして育ててきた｜note収益化【52日目】 | docs/free-articles/90-day52.md | 【51日目】、有料コンテンツ案内 |
+| 黒猫と夏の冒険 | docs/free-articles/99-black-cat-summer-picturebook.md | 【52日目】 |
+| 1枚のキャラ設定から、ほとんど指示せず絵本になった｜note収益化【53日目】 | docs/free-articles/91-day53.md | 【52日目】、有料コンテンツ案内 |
+| サイトまでAIに作ってもらった。でも、作っただけでは誰も来ない｜note収益化【54日目】 | docs/free-articles/92-day54.md | 【53日目】、有料コンテンツ案内 |
+| Patreonの「中身が見えない」をGitHubギャラリーで補ってみた | docs/free-articles/93-patreon-github-gallery.md | 【54日目】 |
+| エラーを見せたらAIが直した。私が長いプロンプトを書かない理由｜note収益化【55日目】 | docs/free-articles/94-day55.md | 【54日目】、有料コンテンツ案内 |
+| アイデアは私、実装はAI。気づけばSNS投稿まで任せていた｜note収益化【56日目】 | docs/free-articles/95-day56.md | 【55日目】、有料コンテンツ案内 |
+| 自己完結してしまうから、誰かに向けた記事が書けない｜note収益化【57日目】 | docs/free-articles/96-day57.md | 【56日目】、有料コンテンツ案内 |
+| 読まれない記事を、毎日書き続ける必要はあるのか？｜note収益化【58日目】 | docs/free-articles/97-day58.md | 【57日目】、有料コンテンツ案内 |
+| 「猫は赤が見えない」――なぜ、それを「赤いものが見えない」と受け取るのだろう？ | docs/free-articles/100-cats-red-color-perception.md | 思索エッセイ、有料コンテンツ案内 |
+| 「温暖化の原因はCO₂です」とAIが答える理由――問いが狭ければ、答えも狭くなる | docs/free-articles/101-warming-co2-narrow-question.md | 猫は赤が見えない記事 |
+| ChatGPTで描くAIイラスト（前編・後編） | docs/free-articles/102-chatgpt-illustration-part1.md, docs/free-articles/103-chatgpt-illustration-part2.md | プロンプト時代終わり記事 |
+| ライトノベル「無職のおっさん、ラノベを書く」第1〜21話・異世界AI生活第1〜9話・ちびっと！異世界AI生活第1話・短編漫画/フィクションマンガ（猫漫画・青春ラブコメ漫画含む）・美麗イラスト（GPT作品含む）・科学トピック題材の漫画・思索小説「地球人類が想像しえない世界」「エターナル・セレネイア」等・Suno楽曲（本文は非収録） | NOTE_ARTICLES.md 内にリンクのみ | カクヨム、小説家になろう、Suno |
+| NOTE記事一覧（全208本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
 
 ## AI活用
 
@@ -163,6 +173,9 @@
 - 公式サイト / AICoCreationLab: https://aico-creation-lab.musyokunoossan.chatgpt.site/
 - Patreon: http://patreon.com/cw/AICoCreationLab
 - noteマガジン一覧: https://note.com/mushoku_note_log/magazines
+- AICo Creation Lab AI Art Gallery（GitHub Pages）: https://mushoku-note-log.github.io/
+- AICoCreationLab（ChatGPT製サイト）: https://aico-creation-lab.musyokunoossan.chatgpt.site/
+- Patreon（AICoCreationLab）: https://www.patreon.com/cw/AICoCreationLab
 - BOOTH: https://ai-dialogue-lab.booth.pm/
 - Etsy（AI Co-Creation Lab）: https://www.etsy.com/jp/shop/AICoCreationLab
 - pixiv: https://www.pixiv.net/users/127667724

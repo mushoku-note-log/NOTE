@@ -10,17 +10,20 @@
 - 方針：嘘の実績を書かない、まだ稼げていない段階で稼げたように見せない、成功だけでなく失敗や方向転換も記録する
 - 分離：著者の他の思想活動（自然補完科学・文明OS等）とは完全に分離して運用
 
-## 現在の状況（2026年8月27日時点）
+## 現在の状況（2026年9月10日時点）
 
-- 実験開始から53日目
-- 公開記事数：191本（無料180・有料11、うちラノベ「無職のおっさん、ラノベを書く」21話、新シリーズ『無職のおっさんの異世界AI生活』9話、短編漫画・フィクションマンガ多数（猫漫画『サイベリアンのクイーン』シリーズ、新シリーズ「青春ラブコメ漫画」含む）、美麗イラスト・カスタムGPT作品多数（美麗イラスト生成GPT／立体水彩・ノーブルパステル変換GPT／和風美麗イラスト生成GPT／美麗フィギュア生成GPT／竹灯り・透かし彫りアートGPT等）、新スピンオフ『ちびっと！無職のおっさんの異世界AI生活』1話、Meta AI由来の絵本的作品「黒猫と夏の冒険」を含む）
-- note フォロワー：914人、全体ビュー：28,154、スキ：3,231、コメント：107
+- 実験開始から58日目（9月10日時点の最新記事はChatGPTでのAIイラスト制作記録）
+- 公開記事数：208本（うちラノベ「無職のおっさん、ラノベを書く」21話、新シリーズ『無職のおっさんの異世界AI生活』9話、短編漫画・フィクションマンガ多数（猫漫画『サイベリアンのクイーン』シリーズ、新シリーズ「青春ラブコメ漫画」含む）、美麗イラスト・カスタムGPT作品多数、科学トピックを題材にした漫画・思索エッセイ多数、新スピンオフ『ちびっと！無職のおっさんの異世界AI生活』1話）
+- note フォロワー：940人、全体ビュー：30,534（9月1日時点）、スキ：3,374、コメント：111
 - 売上：400円（初売上から未増加）
 - 50〜53日目にかけて、「誰かの困りごとを解く」が分からないという悩みから、「何を売るか」より先に「私は何をしている人なのか」を言語化する段階へ移行。AIを単なる道具ではなく、最初から対等なパートナーとして育ててきたことが、この企画の中心的な価値ではないかと整理しつつある
 - Meta AIで1枚のキャラクター設定から絵本的な連続作品「黒猫と夏の冒険」ができ、細かなプロンプトより初期設定と対話の流れで作品が展開していく事例を記録
 - **note側のアカウント表示名が「無職のおっさんの黄昏」からさらに「無職のおっさんの黄昏AI創作」に変わっていることを2026年8月19日に確認**（8月5日の初回変更確認から2度目）。引き続き同一企画として本アーカイブを継続
 - **海外のPatreonに登録し、イラストを投稿開始**（2026年8月22日、アカウント名「AICoCreationLab — イラスト画集」）。同時期に、note側の「猫漫画コンテンツ」「青春ラブコメ漫画」「ChatGPTで作れる美麗画像ギャラリー」の3マガジンが収録0本になり「patreonへ移動しました」という案内に変わったことを確認
-- 48日目に「そもそもnoteで売る必要があるのか」という根本的な疑問に到達。「売るために作る」から「面白いと思ったものを作り、たまった中から適した場所へ出す」へ発想転換
+- **Patreonの「購入前に中身が見えない」課題に対応するため、ChatGPTのサイト作成機能でギャラリーサイト（aico-creation-lab.musyokunoossan.chatgpt.site）を作り、さらにGitHub Pages上に独自のアートギャラリー（https://mushoku-note-log.github.io/ 、Codex製）を構築**（2026年8月28〜29日）。Pinterest自動投稿用の画像データを流用したもので、本アーカイブと同じGitHubアカウント上で別セッションが並行運用している
+- 48日目に「そもそもnoteで売る必要があるのか」という根本的な疑問に到達。「売るために作る」から「面白いと思ったものを作り、たまった中から適した場所へ出す」へ発想転換。58日目には「日報を毎日書き続ける意味があるのか」という疑問にも到達し、日報は収益にも外部導線にもつながっていないと総括
+- **AIを道具ではなく「対等な共創パートナー」として名前をつけ長期間育ててきた**という運用哲学を改めて言語化（52日目）。Codexにブラウザ操作を任せてSNS投稿を半自動化する等、AI活用が制作から販促・運用まで拡大
+- 2026年9月2日〜9日にかけて、地球とは異なる惑星文明「セレネイア」を舞台にした思索小説・思索漫画（『エターナル・セレネイア』「地球人類が想像しえない世界」「和の思想」等）を集中的に公開。ユーザー本人によれば「思い付きの実験で、シリーズとして継続するかは未定」とのこと（詳細は`PROJECT_HISTORY.md`2026年9月参照）
 - 科学・環境トピックを題材にした漫画で初の有料展開「見えない命の土台」（¥500）を公開
 - BOOTH商品「AI漫画メイキング講座」を5種→10種のカスタムGPTへ拡充し¥2,980→¥5,000へ値上げしたが購入0件が継続。**2026年8月16日、「売れない商品を無理に増やすのはやめる」と方針転換**し、商品から漫画パートのみを抜き出した単品有料note記事を新設。**この記事も2026年8月19日頃までにタイトル・価格を改定**（「初心者でも、無料ChatGPTでもできる超簡単、短編漫画講座」¥500 → 「台本もコマ割りも不要。無料ChatGPTに『漫画作って』から始める短編漫画の作り方」¥4,980）。「売れないから値下げする、をやめる」という44日目の方針の実践とみられる。同題材のAmazon Kindle版（初期5種類版、¥980）も並行して販売中
 - BOOTHの商品選定を「作れるものを作って出品する」から「その場所にいる人が何を探しているか」起点で見直し（BOOTH運営元pixivの利用者にはイラスト・漫画・創作素材の需要が多い）。これが上記メイキング講座の直接の起点になった
@@ -170,12 +173,23 @@
 - [売れるのは「将来の価値」より「今すぐ使えるもの」なのか｜note収益化【49日目】](docs/free-articles/87-day49.md)
 - [「誰かの困りごとを解く」が分からない。私の普通は、他人の普通ではなかった｜note収益化【50日目】](docs/free-articles/88-day50.md)
 - [「何を売るか」より先に、「私は何をしている人なのか」｜note収益化【51日目】](docs/free-articles/89-day51.md)
-- [AIに助言を受けてみた](docs/free-articles/90-ai-advice.md)
-- [AIを「使う」のではなく、最初から対等なパートナーとして育ててきた｜note収益化【52日目】](docs/free-articles/91-day52.md)
-- [1枚のキャラ設定から、ほとんど指示せず絵本になった｜note収益化【53日目】](docs/free-articles/92-day53.md)
-- [NOTE記事一覧（全191本、タイトル・URL・価格）](NOTE_ARTICLES.md)
+- [AIに助言を受けてみた](docs/free-articles/98-ai-advice-received.md)
+- [AIを「使う」のではなく、最初から対等なパートナーとして育ててきた｜note収益化【52日目】](docs/free-articles/90-day52.md)
+- [黒猫と夏の冒険](docs/free-articles/99-black-cat-summer-picturebook.md)
+- [1枚のキャラ設定から、ほとんど指示せず絵本になった｜note収益化【53日目】](docs/free-articles/91-day53.md)
+- [サイトまでAIに作ってもらった。でも、作っただけでは誰も来ない｜note収益化【54日目】](docs/free-articles/92-day54.md)
+- [Patreonの「中身が見えない」をGitHubギャラリーで補ってみた](docs/free-articles/93-patreon-github-gallery.md)
+- [エラーを見せたらAIが直した。私が長いプロンプトを書かない理由｜note収益化【55日目】](docs/free-articles/94-day55.md)
+- [アイデアは私、実装はAI。気づけばSNS投稿まで任せていた｜note収益化【56日目】](docs/free-articles/95-day56.md)
+- [自己完結してしまうから、誰かに向けた記事が書けない｜note収益化【57日目】](docs/free-articles/96-day57.md)
+- [読まれない記事を、毎日書き続ける必要はあるのか？｜note収益化【58日目】](docs/free-articles/97-day58.md)
+- [「猫は赤が見えない」――なぜ、それを「赤いものが見えない」と受け取るのだろう？](docs/free-articles/100-cats-red-color-perception.md)
+- [「温暖化の原因はCO₂です」とAIが答える理由――問いが狭ければ、答えも狭くなる](docs/free-articles/101-warming-co2-narrow-question.md)
+- [ChatGPTで描くAIイラスト（前編）](docs/free-articles/102-chatgpt-illustration-part1.md)
+- [ChatGPTで描くAIイラスト（後編）](docs/free-articles/103-chatgpt-illustration-part2.md)
+- [NOTE記事一覧（全208本、タイトル・URL・価格）](NOTE_ARTICLES.md)
 
-ライトノベル「無職のおっさん、ラノベを書く」（第1〜21話）、新シリーズ『無職のおっさんの異世界AI生活』（第1〜9話）、そのスピンオフ『ちびっと！無職のおっさんの異世界AI生活』（第1話）、Suno楽曲、短編漫画・フィクションマンガ（猫漫画『サイベリアンのクイーン』シリーズ、新シリーズ『青春ラブコメ漫画』含む）、美麗イラスト（カスタムGPT作品含む）、科学トピックを題材にした漫画作品は、著作権保護のため本文・歌詞・図版を収録せず、[NOTE_ARTICLES.md](NOTE_ARTICLES.md) にリンクのみ記載しています。
+ライトノベル「無職のおっさん、ラノベを書く」（第1〜21話）、新シリーズ『無職のおっさんの異世界AI生活』（第1〜9話）、そのスピンオフ『ちびっと！無職のおっさんの異世界AI生活』（第1話）、Suno楽曲、短編漫画・フィクションマンガ（猫漫画『サイベリアンのクイーン』シリーズ、新シリーズ『青春ラブコメ漫画』含む）、美麗イラスト（カスタムGPT作品含む）、科学トピックを題材にした漫画作品、思索小説・思索漫画（『エターナル・セレネイア』「地球人類が想像しえない世界」「和の思想」等、2026年9月開始の実験的クラスター）は、著作権保護のため本文・歌詞・図版を収録せず、[NOTE_ARTICLES.md](NOTE_ARTICLES.md) にリンクのみ記載しています。
 
 ### AI活用・制作工程
 
@@ -220,7 +234,8 @@
 | サービス | リンク | GitHub記録 |
 |---|---|---|
 | note（本体） | https://note.com/mushoku_note_log | [NOTE（本リポジトリ）](https://github.com/mushoku-note-log/NOTE) |
-| 公式サイト / AICoCreationLab | https://aico-creation-lab.musyokunoossan.chatgpt.site/ | [公式サイト・Patreon導線](docs/platforms/aico-creation-lab.md) |
+| AICo Creation Lab AI Art Gallery（GitHub Pages、2026年8月29日構築） | https://mushoku-note-log.github.io/ | 本体リポジトリ（`mushoku-note-log.github.io`、別セッション管理） |
+| 公式サイト / AICoCreationLab（ChatGPT製サイト、2026年8月28日構築） | https://aico-creation-lab.musyokunoossan.chatgpt.site/ | [公式サイト・Patreon導線](docs/platforms/aico-creation-lab.md) |
 | BOOTH（デジタル商品） | https://ai-dialogue-lab.booth.pm/ | [有料コンテンツ案内](paid-content/README.md) |
 | Etsy（AI Co-Creation Lab、海外向け） | https://www.etsy.com/jp/shop/AICoCreationLab | [有料コンテンツ案内](paid-content/README.md) |
 | Amazon（Kindle） | https://www.amazon.co.jp/dp/B0H8ZJ13Y9 ／ https://www.amazon.co.jp/dp/B0HDSLDTKN | [有料コンテンツ案内](paid-content/README.md) |
@@ -237,7 +252,7 @@
 | Instagram | https://www.instagram.com/50daiossan/ | [SNS-Instagram](https://github.com/mushoku-note-log/SNS-Instagram) |
 | Facebook（2026年8月23日確認） | https://www.facebook.com/profile.php?id=61591657445920 | [SNS-Facebook](https://github.com/mushoku-note-log/SNS-Facebook) |
 | Medium（英語圏向けミラー、2026年8月23日確認） | https://medium.com/@shave0214 | [SNS-Medium](https://github.com/mushoku-note-log/SNS-Medium) |
-| Pinterest | https://jp.pinterest.com/mushoku_note_log/ | - |
+| Pinterest | https://jp.pinterest.com/mushoku_note_log/ | `SNS-Pinterest`（別セッション管理、自動投稿用データ） |
 | Suno（音楽） | https://suno.com/@mushoku_note_log | - |
 | Spotify | https://open.spotify.com/user/31zynkvprsgudvgkl5t4xu5f5qbi | - |
 | SoundCloud | https://soundcloud.com/2ubv9wrigsoo | - |
