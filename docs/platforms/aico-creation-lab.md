@@ -10,7 +10,6 @@ AI Co-Creation Lab の公式サイト、Patreon、GitHub記録、関連SNSをま
 | Patreon / AI Co-Creation Lab | http://patreon.com/cw/AICoCreationLab | [SNS-Patreon](https://github.com/mushoku-note-log/SNS-Patreon) |
 | NOTEアーカイブ | https://note.com/mushoku_note_log | [NOTE](https://github.com/mushoku-note-log/NOTE) |
 | ちちぷい | https://www.chichi-pui.com/users/user_tJrej5XX3G/ | [SNS-chichipui](https://github.com/mushoku-note-log/SNS-chichipui) |
-| pixiv | https://www.pixiv.net/users/127667724 | [SNS-pixiv](https://github.com/mushoku-note-log/SNS-pixiv) |
 | Aipictors | https://www.aipictors.com/users/46e656ee-654e-686d-0cdc-0186f23856d8 | [SNS-Aipictors](https://github.com/mushoku-note-log/SNS-Aipictors) |
 | Painter AI | https://painter-ai.ai/ja/users/5a51ae7dc3 | [SNS-PainterAI](https://github.com/mushoku-note-log/SNS-PainterAI) |
 | SeaArt | https://www.seaart.ai/user/39f3f4b7c2134f6870082e70eaa3834f | [SNS-SeaArt](https://github.com/mushoku-note-log/SNS-SeaArt) |

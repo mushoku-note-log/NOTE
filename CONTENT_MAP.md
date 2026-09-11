@@ -178,7 +178,6 @@
 - Patreon（AICoCreationLab）: https://www.patreon.com/cw/AICoCreationLab
 - BOOTH: https://ai-dialogue-lab.booth.pm/
 - Etsy（AI Co-Creation Lab）: https://www.etsy.com/jp/shop/AICoCreationLab
-- pixiv: https://www.pixiv.net/users/127667724
 - ちちぷい: https://www.chichi-pui.com/users/user_tJrej5XX3G/
 - Aipictors: https://www.aipictors.com/users/46e656ee-654e-686d-0cdc-0186f23856d8
 - Painter AI: https://painter-ai.ai/ja/users/5a51ae7dc3

@@ -261,7 +261,6 @@
 
 美麗イラスト・漫画制作に伴い、note以外のイラスト投稿サイトにもアカウントを開設しています。
 
-- pixiv: https://www.pixiv.net/users/127667724
 - ちちぷい（chichi-pui）: https://www.chichi-pui.com/users/user_tJrej5XX3G/
 - Painter AI: https://painter-ai.ai/ja/users/5a51ae7dc3
 - SeaArt: https://www.seaart.ai/user/39f3f4b7c2134f6870082e70eaa3834f
