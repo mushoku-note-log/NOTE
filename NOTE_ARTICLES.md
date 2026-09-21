@@ -2,7 +2,7 @@
 
 [← トップページへ戻る](README.md)
 
-公開済みnote記事一覧（2026年9月10日時点、208本）。有料記事は無料公開部分の概要のみ記載。詳細な要約は `docs/free-articles/` を参照。タイトルは2026年7月18日以降、著者による改題を反映した最新のものです（旧タイトルは `PROJECT_HISTORY.md` の該当日を参照）。2026年8月上旬、note側のアカウント表示名が「無職のおっさんの黄昏」に変わり、2026年8月19日時点ではさらに「無職のおっさんの黄昏AI創作」に変わっていることを確認していますが、記事の内容・著者情報は従来の企画（note収益化実験）と連続しているため、本表では引き続き同一企画として扱っています（詳細は `PROJECT_HISTORY.md` 2026年8月5日の記録を参照）。
+公開済みnote記事一覧（2026年9月21日時点、232本）。有料記事は無料公開部分の概要のみ記載。詳細な要約は `docs/free-articles/` を参照。タイトルは2026年7月18日以降、著者による改題を反映した最新のものです（旧タイトルは `PROJECT_HISTORY.md` の該当日を参照）。2026年8月上旬、note側のアカウント表示名が「無職のおっさんの黄昏」に変わり、2026年8月19日時点ではさらに「無職のおっさんの黄昏AI創作」に変わっていることを確認していますが、記事の内容・著者情報は従来の企画（note収益化実験）と連続しているため、本表では引き続き同一企画として扱っています（詳細は `PROJECT_HISTORY.md` 2026年8月5日の記録を参照）。
 
 | # | タイトル | 種別 | 価格 | 公開日 | URL | 概要ファイル |
 |---|---|---|---|---|---|---|
@@ -215,6 +215,30 @@
 | 206 | 地球人類が想像しえない世界 | 無料・思索小説 | - | 2026-09-09 | https://note.com/mushoku_note_log/n/na0216acaaa9b | リンクのみ（下記参照） |
 | 207 | ChatGPTで描くAIイラスト【AI活用・画像生成AI・AIイラスト】（前編） | 無料・制作記録 | - | 2026-09-09 | https://note.com/mushoku_note_log/n/n09066ad39ad7 | docs/free-articles/102-chatgpt-illustration-part1.md |
 | 208 | ChatGPTで描くAIイラスト【AI活用・画像生成AI・AIイラスト】（後編） | 無料・制作記録 | - | 2026-09-10 | https://note.com/mushoku_note_log/n/nd192e40798bc | docs/free-articles/103-chatgpt-illustration-part2.md |
+| 209 | ChatGPTで描く秋の優しい水彩画：超簡単プロンプト | 有料（メンバーシップ限定） | ¥980/月 | 2026-09-10 | https://note.com/mushoku_note_log/n/n7848130327a5 | リンクのみ（無料公開部分なし） |
+| 210 | 日本語で100文字程度のプロンプト：ChatGPTで描くAIイラスト【AI活用・画像生成AI・AIイラスト】 | 無料・制作記録 | - | 2026-09-10 | https://note.com/mushoku_note_log/n/n619c7c593083 | docs/free-articles/104-prompt-100chars-japanese.md |
+| 211 | pixivのアカウントが停止された。でも結局、何が規約違反だったのか分からない | 無料・制作記録 | - | 2026-09-11 | https://note.com/mushoku_note_log/n/n021562f6bf46 | docs/free-articles/105-pixiv-account-suspended.md |
+| 212 | pixivには、なぜ「実写・リアル・セミリアル」のAIイラストがほとんどないのだろう？ | 無料・制作記録 | - | 2026-09-11 | https://note.com/mushoku_note_log/n/n58cfdc49a989 | docs/free-articles/106-pixiv-why-no-realistic-illustrations.md |
+| 213 | 秋テーマで簡単イラスト：ChatGPTで描くAIイラスト【AI活用・画像生成AI・AIイラスト】 | 有料（メンバーシップ限定） | ¥980/月 | 2026-09-11 | https://note.com/mushoku_note_log/n/n9d3702707edf | リンクのみ（無料公開部分なし） |
+| 214 | AI画像生成は難しくない｜完全初心者向け はじめてのAIイラスト【AI活用・AI画像生成・AIイラスト】 | 無料・制作記録 | - | 2026-09-12 | https://note.com/mushoku_note_log/n/n5c832f99788c | docs/free-articles/107-ai-image-generation-not-difficult.md |
+| 215 | ChatGPTの画像生成に、長いプロンプトは逆効果なのではないか？【AI活用・AI画像生成・AIイラスト】 | 有料（メンバーシップ限定） | ¥980/月 | 2026-09-12 | https://note.com/mushoku_note_log/n/n8977f33091df | リンクのみ（無料公開部分なし） |
+| 216 | わずかな言葉だけでこれだけ作れる：ChatGPTで描くAIイラスト【AI活用・画像生成AI・AIイラスト】 | 無料・制作記録 | - | 2026-09-14 | https://note.com/mushoku_note_log/n/nc61eaf2ed5b4 | docs/free-articles/108-few-words-illustration.md |
+| 217 | AIイラストで必要なのは、長いプロンプトより「イメージを言葉にすること」かもしれない【AI活用・AI画像生成・AIイラスト】 | 無料・制作記録 | - | 2026-09-14 | https://note.com/mushoku_note_log/n/n8d11891b2edb | docs/free-articles/109-image-vs-prompt-language.md |
+| 218 | ChatGPTで手書き風イラスト：【AI活用・AI画像生成・AIイラスト】 | 無料・制作記録 | - | 2026-09-15 | https://note.com/mushoku_note_log/n/nc24db3198c0d | docs/free-articles/110-handdrawn-style-illustration.md |
+| 219 | ChatGPTの1枚画像から同じキャラで次々とシーンを生み出す方法｜ほぼ「シーンを変えて」だけ【AI活用・AI画像生成・AIイラスト】 | 有料 | ¥500 | 2026-09-15 | https://note.com/mushoku_note_log/n/n611faaf067af | docs/free-articles/111-same-character-scene-change-free-part.md |
+| 220 | ChatGPTで思いつくままにイラスト作成：【AI活用・AI画像生成・AIイラスト】 | 有料（メンバーシップ限定） | ¥980/月 | 2026-09-16 | https://note.com/mushoku_note_log/n/n4094ff07f424 | リンクのみ（無料公開部分なし） |
+| 221 | そんな日もあるさ | 有料（メンバーシップ限定） | ¥980/月 | 2026-09-18 | https://note.com/mushoku_note_log/n/nfe7257c58fe8 | リンクのみ（無料公開部分なし） |
+| 222 | なぜAIイラストは似て見えるのか？中央構図という仮説：【AI活用・AI画像生成・AIイラスト】 | 有料（メンバーシップ限定） | ¥980/月 | 2026-09-18 | https://note.com/mushoku_note_log/n/nce586f28e7f7 | リンクのみ（無料公開部分なし） |
+| 223 | エターナル・セレネイア 1：【AI活用・AI画像生成・AIイラスト】 | 無料・思索小説 | - | 2026-09-19 | https://note.com/mushoku_note_log/n/n428ba27035be | リンクのみ（著作権保護のため本文非掲載） |
+| 224 | エターナル・セレネイア 2：【AI活用・AI画像生成・AIイラスト】 | 無料・思索小説 | - | 2026-09-20 | https://note.com/mushoku_note_log/n/nbfaafa89ed8e | リンクのみ（著作権保護のため本文非掲載） |
+| 225 | プロンプトにmasterpieceは必要か？：【AI活用・AI画像生成・AIイラスト】 | 有料（メンバーシップ限定） | ¥980/月 | 2026-09-20 | https://note.com/mushoku_note_log/n/n84b77946a402 | リンクのみ（無料公開部分なし） |
+| 226 | ChatGPTで簡単にイラスト作成：【AI活用・AI画像生成・AIイラスト】 | 無料・制作記録 | - | 2026-09-20 | https://note.com/mushoku_note_log/n/n29a0168452f7 | docs/free-articles/112-simple-illustration-creation.md |
+| 227 | ChatGPTで簡単にイラスト作成（具体例）：【AI活用・AI画像生成・AIイラスト】 | 有料（メンバーシップ限定） | ¥980/月 | 2026-09-20 | https://note.com/mushoku_note_log/n/n3af174b876fe | リンクのみ（無料公開部分なし） |
+| 228 | AI共創ビジュアルラボを始めます | 有料（メンバーシップ案内） | ¥980/月 | 2026-09-20 | https://note.com/mushoku_note_log/n/n4f454fc5fd87 | docs/free-articles/113-ai-visual-lab-launch-free-part.md |
+| 229 | ChatGPTでイラスト作成：【AI活用・AI画像生成・AIイラスト】 | 有料（期間限定¥100） | ¥200 | 2026-09-21 | https://note.com/mushoku_note_log/n/n4a567dd2f653 | docs/free-articles/114-illustration-creation-sale-free-part.md |
+| 230 | 簡単な同じプロンプトで比較：AI活用・AI画像生成・AIイラスト】 | 無料・制作記録 | - | 2026-09-21 | https://note.com/mushoku_note_log/n/n3aa9c4e7ce80 | docs/free-articles/115-same-prompt-comparison.md |
+| 231 | エターナル・セレネイア 3：【AI活用・AI画像生成・AIイラスト】 | 無料・思索小説 | - | 2026-09-21 | https://note.com/mushoku_note_log/n/nf247663f0762 | リンクのみ（著作権保護のため本文非掲載） |
+| 232 | THE CELESTIAL ARCHIVE — 星環書庫 | 無料・思索漫画（イラストのみのストーリー） | - | 2026-09-21 | https://note.com/mushoku_note_log/n/n776b53dbe373 | リンクのみ（著作権保護のため本文非掲載） |
 
 ## ライトノベル・楽曲について
 

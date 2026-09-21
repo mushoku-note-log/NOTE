@@ -114,8 +114,11 @@
 | 「猫は赤が見えない」――なぜ、それを「赤いものが見えない」と受け取るのだろう？ | docs/free-articles/100-cats-red-color-perception.md | 思索エッセイ、有料コンテンツ案内 |
 | 「温暖化の原因はCO₂です」とAIが答える理由――問いが狭ければ、答えも狭くなる | docs/free-articles/101-warming-co2-narrow-question.md | 猫は赤が見えない記事 |
 | ChatGPTで描くAIイラスト（前編・後編） | docs/free-articles/102-chatgpt-illustration-part1.md, docs/free-articles/103-chatgpt-illustration-part2.md | プロンプト時代終わり記事 |
-| ライトノベル「無職のおっさん、ラノベを書く」第1〜21話・異世界AI生活第1〜9話・ちびっと！異世界AI生活第1話・短編漫画/フィクションマンガ（猫漫画・青春ラブコメ漫画含む）・美麗イラスト（GPT作品含む）・科学トピック題材の漫画・思索小説「地球人類が想像しえない世界」「エターナル・セレネイア」等・Suno楽曲（本文は非収録） | NOTE_ARTICLES.md 内にリンクのみ | カクヨム、小説家になろう、Suno |
-| NOTE記事一覧（全208本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
+| pixivアカウント停止（経緯・考察の2本） | docs/free-articles/105-pixiv-account-suspended.md, docs/free-articles/106-pixiv-why-no-realistic-illustrations.md | README.md 停止告知 |
+| AIイラスト制作記録（プロンプト・画風比較など9本、2026年9月10〜21日） | docs/free-articles/104-prompt-100chars-japanese.md, docs/free-articles/107-ai-image-generation-not-difficult.md, docs/free-articles/108-few-words-illustration.md, docs/free-articles/109-image-vs-prompt-language.md, docs/free-articles/110-handdrawn-style-illustration.md, docs/free-articles/111-same-character-scene-change-free-part.md, docs/free-articles/112-simple-illustration-creation.md, docs/free-articles/114-illustration-creation-sale-free-part.md, docs/free-articles/115-same-prompt-comparison.md | 有料コンテンツ案内 |
+| AI共創ビジュアルラボ（メンバーシップ開始告知） | docs/free-articles/113-ai-visual-lab-launch-free-part.md | 有料コンテンツ案内 |
+| ライトノベル「無職のおっさん、ラノベを書く」第1〜21話・異世界AI生活第1〜9話・ちびっと！異世界AI生活第1話・短編漫画/フィクションマンガ（猫漫画・青春ラブコメ漫画含む）・美麗イラスト（GPT作品含む）・科学トピック題材の漫画・思索小説「地球人類が想像しえない世界」「エターナル・セレネイア」・思索漫画「THE CELESTIAL ARCHIVE」等・Suno楽曲（本文は非収録） | NOTE_ARTICLES.md 内にリンクのみ | カクヨム、小説家になろう、Suno |
+| NOTE記事一覧（全232本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
 
 ## AI活用
 
