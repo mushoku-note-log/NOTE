@@ -117,8 +117,9 @@
 | pixivアカウント停止（経緯・考察の2本） | docs/free-articles/105-pixiv-account-suspended.md, docs/free-articles/106-pixiv-why-no-realistic-illustrations.md | README.md 停止告知 |
 | AIイラスト制作記録（プロンプト・画風比較など9本、2026年9月10〜21日） | docs/free-articles/104-prompt-100chars-japanese.md, docs/free-articles/107-ai-image-generation-not-difficult.md, docs/free-articles/108-few-words-illustration.md, docs/free-articles/109-image-vs-prompt-language.md, docs/free-articles/110-handdrawn-style-illustration.md, docs/free-articles/111-same-character-scene-change-free-part.md, docs/free-articles/112-simple-illustration-creation.md, docs/free-articles/114-illustration-creation-sale-free-part.md, docs/free-articles/115-same-prompt-comparison.md | 有料コンテンツ案内 |
 | AI共創ビジュアルラボ（メンバーシップ開始告知） | docs/free-articles/113-ai-visual-lab-launch-free-part.md | 有料コンテンツ案内 |
-| ライトノベル「無職のおっさん、ラノベを書く」第1〜21話・異世界AI生活第1〜9話・ちびっと！異世界AI生活第1話・短編漫画/フィクションマンガ（猫漫画・青春ラブコメ漫画含む）・美麗イラスト（GPT作品含む）・科学トピック題材の漫画・思索小説「地球人類が想像しえない世界」「エターナル・セレネイア」・思索漫画「THE CELESTIAL ARCHIVE」等・Suno楽曲（本文は非収録） | NOTE_ARTICLES.md 内にリンクのみ | カクヨム、小説家になろう、Suno |
-| NOTE記事一覧（全232本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
+| AIイラスト制作記録・初心者向け入門（10本、2026年9月21〜25日） | docs/free-articles/116-comfyui-beginner-necessity.md, docs/free-articles/117-why-ai-illustration-lacks-depth-free-part.md, docs/free-articles/118-should-you-write-prompts-yourself.md, docs/free-articles/119-visualizing-magazine-catalog-prompts.md, docs/free-articles/120-why-short-words-work.md, docs/free-articles/121-easy-ai-illustration-for-everyone.md, docs/free-articles/122-absolute-beginner-ai-illustration-part1.md, docs/free-articles/123-recreate-others-prompts-free-part.md, docs/free-articles/124-absolute-beginner-ai-illustration-part2.md, docs/free-articles/125-ai-critique-trial.md | 有料コンテンツ案内 |
+| ライトノベル「無職のおっさん、ラノベを書く」第1〜21話・異世界AI生活第1〜9話・ちびっと！異世界AI生活第1話・短編漫画/フィクションマンガ（猫漫画・青春ラブコメ漫画含む）・美麗イラスト（GPT作品含む）・科学トピック題材の漫画・思索小説「地球人類が想像しえない世界」「エターナル・セレネイア」・思索漫画「THE CELESTIAL ARCHIVE」「魔王エターナル」等・Suno楽曲（本文は非収録） | NOTE_ARTICLES.md 内にリンクのみ | カクヨム、小説家になろう、Suno |
+| NOTE記事一覧（全247本） | NOTE_ARTICLES.md | 有料コンテンツ案内、自己紹介記事、企画の履歴 |
 
 ## AI活用
 

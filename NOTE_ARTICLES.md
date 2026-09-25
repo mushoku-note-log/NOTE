@@ -2,7 +2,7 @@
 
 [← トップページへ戻る](README.md)
 
-公開済みnote記事一覧（2026年9月21日時点、232本）。有料記事は無料公開部分の概要のみ記載。詳細な要約は `docs/free-articles/` を参照。タイトルは2026年7月18日以降、著者による改題を反映した最新のものです（旧タイトルは `PROJECT_HISTORY.md` の該当日を参照）。2026年8月上旬、note側のアカウント表示名が「無職のおっさんの黄昏」に変わり、2026年8月19日時点ではさらに「無職のおっさんの黄昏AI創作」に変わっていることを確認していますが、記事の内容・著者情報は従来の企画（note収益化実験）と連続しているため、本表では引き続き同一企画として扱っています（詳細は `PROJECT_HISTORY.md` 2026年8月5日の記録を参照）。
+公開済みnote記事一覧（2026年9月25日時点、247本）。有料記事は無料公開部分の概要のみ記載。詳細な要約は `docs/free-articles/` を参照。タイトルは2026年7月18日以降、著者による改題を反映した最新のものです（旧タイトルは `PROJECT_HISTORY.md` の該当日を参照）。2026年8月上旬、note側のアカウント表示名が「無職のおっさんの黄昏」に変わり、2026年8月19日時点ではさらに「無職のおっさんの黄昏AI創作」に変わっていることを確認していますが、記事の内容・著者情報は従来の企画（note収益化実験）と連続しているため、本表では引き続き同一企画として扱っています（詳細は `PROJECT_HISTORY.md` 2026年8月5日の記録を参照）。
 
 | # | タイトル | 種別 | 価格 | 公開日 | URL | 概要ファイル |
 |---|---|---|---|---|---|---|
@@ -238,7 +238,22 @@
 | 229 | ChatGPTでイラスト作成：【AI活用・AI画像生成・AIイラスト】 | 有料（期間限定¥100） | ¥200 | 2026-09-21 | https://note.com/mushoku_note_log/n/n4a567dd2f653 | docs/free-articles/114-illustration-creation-sale-free-part.md |
 | 230 | 簡単な同じプロンプトで比較：AI活用・AI画像生成・AIイラスト】 | 無料・制作記録 | - | 2026-09-21 | https://note.com/mushoku_note_log/n/n3aa9c4e7ce80 | docs/free-articles/115-same-prompt-comparison.md |
 | 231 | エターナル・セレネイア 3：【AI活用・AI画像生成・AIイラスト】 | 無料・思索小説 | - | 2026-09-21 | https://note.com/mushoku_note_log/n/nf247663f0762 | リンクのみ（著作権保護のため本文非掲載） |
-| 232 | THE CELESTIAL ARCHIVE — 星環書庫 | 無料・思索漫画（イラストのみのストーリー） | - | 2026-09-21 | https://note.com/mushoku_note_log/n/n776b53dbe373 | リンクのみ（著作権保護のため本文非掲載） |
+| 232 | THE CELESTIAL ARCHIVE — 星環書庫 １ | 無料・思索漫画（イラストのみのストーリー） | - | 2026-09-21 | https://note.com/mushoku_note_log/n/n776b53dbe373 | リンクのみ（著作権保護のため本文非掲載） |
+| 233 | AIイラスト初心者にComfyUIって、本当に必要なの？ | 無料・制作記録 | - | 2026-09-21 | https://note.com/mushoku_note_log/n/nb00d1671418d | docs/free-articles/116-comfyui-beginner-necessity.md |
+| 234 | AIイラストは、なぜ奥行きがないのか？：【AI活用・AI画像生成・AIイラスト】 | 有料 | ¥500 | 2026-09-22 | https://note.com/mushoku_note_log/n/ne7f4b1084b7a | docs/free-articles/117-why-ai-illustration-lacks-depth-free-part.md |
+| 235 | 画像生成AIのプロンプト、自分で書く必要ある？：【AI活用・AI画像生成・初心者AIイラスト】 | 無料・制作記録 | - | 2026-09-22 | https://note.com/mushoku_note_log/n/ne9b653cc8ffc | docs/free-articles/118-should-you-write-prompts-yourself.md |
+| 236 | イメージを言語化する（簡単プロンプト）：【AI活用・AI画像生成・初心者AIイラスト】 | 無料・制作記録 | - | 2026-09-22 | https://note.com/mushoku_note_log/n/n066cf9c5f243 | docs/free-articles/119-visualizing-magazine-catalog-prompts.md |
+| 237 | エターナル・セレネイア 4：【AI活用・AI画像生成・AIイラスト】 | 無料・思索小説 | - | 2026-09-22 | https://note.com/mushoku_note_log/n/n43ef718e5b47 | リンクのみ（著作権保護のため本文非掲載） |
+| 238 | THE CELESTIAL ARCHIVE — 星環書庫 2 | 無料・思索漫画（イラストのみのストーリー） | - | 2026-09-23 | https://note.com/mushoku_note_log/n/n5d60a3d6e11d | リンクのみ（著作権保護のため本文非掲載） |
+| 239 | 短い単語でもAIイラストが作れる理由（簡単プロンプト）：【AI活用・AI画像生成・初心者AIイラスト】 | 無料・制作記録 | - | 2026-09-23 | https://note.com/mushoku_note_log/n/n7199b4bf8ddf | docs/free-articles/120-why-short-words-work.md |
+| 240 | ChatGPTで誰でも簡単AIイラスト【AI活用・AI画像生成・初心者AIイラスト】 | 無料・制作記録 | - | 2026-09-23 | https://note.com/mushoku_note_log/n/n210ab1d0ae2e | docs/free-articles/121-easy-ai-illustration-for-everyone.md |
+| 241 | エターナル・セレネイア 5：【AI活用・AI画像生成・AIイラスト】 | 無料・思索小説 | - | 2026-09-24 | https://note.com/mushoku_note_log/n/nd241bf7a57fc | リンクのみ（著作権保護のため本文非掲載） |
+| 242 | 絵心のない超初心者AIイラスト入門 その１【AI活用・AI画像生成・初心者AIイラスト】 | 無料・制作記録 | - | 2026-09-24 | https://note.com/mushoku_note_log/n/nf2e0128aad1d | docs/free-articles/122-absolute-beginner-ai-illustration-part1.md |
+| 243 | 他人の長いプロンプトで作ったイラストを短いプロンプトでどこまで再現できるか | 有料 | ¥500〜 | 2026-09-24 | https://note.com/mushoku_note_log/n/n4de943c3388d | docs/free-articles/123-recreate-others-prompts-free-part.md |
+| 244 | 魔王エターナル １（イラストだけで描くストーリー） | 有料（メンバーシップ／マガジン限定） | ¥980/月〜 | 2026-09-24 | https://note.com/mushoku_note_log/n/n56cb8e5f2272 | リンクのみ（無料公開部分なし） |
+| 245 | 絵心のない超初心者AIイラスト入門 その２【AI活用・AI画像生成・初心者AIイラスト】 | 無料・制作記録 | - | 2026-09-25 | https://note.com/mushoku_note_log/n/n50e94d801d44 | docs/free-articles/124-absolute-beginner-ai-illustration-part2.md |
+| 246 | やってみた：AI添削【AI活用・AI画像生成・AIイラスト】 | 無料・制作記録 | - | 2026-09-25 | https://note.com/mushoku_note_log/n/nf993ec53ac48 | docs/free-articles/125-ai-critique-trial.md |
+| 247 | THE CELESTIAL ARCHIVE — 星環書庫 3 | 無料・思索漫画（イラストのみのストーリー） | - | 2026-09-25 | https://note.com/mushoku_note_log/n/n0587c340661c | リンクのみ（著作権保護のため本文非掲載） |
 
 ## ライトノベル・楽曲について
 
