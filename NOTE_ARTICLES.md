@@ -2,7 +2,7 @@
 
 [← トップページへ戻る](README.md)
 
-公開済みnote記事一覧（2026年9月25日時点、247本）。有料記事は無料公開部分の概要のみ記載。詳細な要約は `docs/free-articles/` を参照。タイトルは2026年7月18日以降、著者による改題を反映した最新のものです（旧タイトルは `PROJECT_HISTORY.md` の該当日を参照）。2026年8月上旬、note側のアカウント表示名が「無職のおっさんの黄昏」に変わり、2026年8月19日時点ではさらに「無職のおっさんの黄昏AI創作」に変わっていることを確認していますが、記事の内容・著者情報は従来の企画（note収益化実験）と連続しているため、本表では引き続き同一企画として扱っています（詳細は `PROJECT_HISTORY.md` 2026年8月5日の記録を参照）。
+公開済みnote記事一覧（2026年9月28日時点、260本）。有料記事は無料公開部分の概要のみ記載。詳細な要約は `docs/free-articles/` を参照。タイトルは2026年7月18日以降、著者による改題を反映した最新のものです（旧タイトルは `PROJECT_HISTORY.md` の該当日を参照）。2026年8月上旬、note側のアカウント表示名が「無職のおっさんの黄昏」に変わり、2026年8月19日時点ではさらに「無職のおっさんの黄昏AI創作」に変わっていることを確認していますが、記事の内容・著者情報は従来の企画（note収益化実験）と連続しているため、本表では引き続き同一企画として扱っています（詳細は `PROJECT_HISTORY.md` 2026年8月5日の記録を参照）。
 
 | # | タイトル | 種別 | 価格 | 公開日 | URL | 概要ファイル |
 |---|---|---|---|---|---|---|
@@ -254,6 +254,19 @@
 | 245 | 絵心のない超初心者AIイラスト入門 その２【AI活用・AI画像生成・初心者AIイラスト】 | 無料・制作記録 | - | 2026-09-25 | https://note.com/mushoku_note_log/n/n50e94d801d44 | docs/free-articles/124-absolute-beginner-ai-illustration-part2.md |
 | 246 | やってみた：AI添削【AI活用・AI画像生成・AIイラスト】 | 無料・制作記録 | - | 2026-09-25 | https://note.com/mushoku_note_log/n/nf993ec53ac48 | docs/free-articles/125-ai-critique-trial.md |
 | 247 | THE CELESTIAL ARCHIVE — 星環書庫 3 | 無料・思索漫画（イラストのみのストーリー） | - | 2026-09-25 | https://note.com/mushoku_note_log/n/n0587c340661c | リンクのみ（著作権保護のため本文非掲載） |
+| 248 | 優しい言葉、励ます言葉の壁紙：ChatGPTプロンプト【AI活用・AI画像生成・初心者AIイラスト】 | 無料・制作記録 | - | 2026-09-25 | https://note.com/mushoku_note_log/n/n4db8d2762216 | docs/free-articles/126-encouraging-words-wallpaper.md |
+| 249 | エターナル・セレネイア 6：【AI活用・AI画像生成・AIイラスト】 | 無料・思索小説 | - | 2026-09-26 | https://note.com/mushoku_note_log/n/nc12979a6e42c | リンクのみ（著作権保護のため本文非掲載） |
+| 250 | 初心者向けAIイラストプロンプト【AI活用・AI画像生成・初心者AIイラスト】 | 有料 | ¥1,000 | 2026-09-26 | https://note.com/mushoku_note_log/n/ndf147d43ce63 | docs/free-articles/127-beginner-ai-illustration-prompts-free-part.md |
+| 251 | 何故かComfyUIをインストールすることになった【AI活用・AI画像生成・AI動画】 | 無料・制作記録 | - | 2026-09-27 | https://note.com/mushoku_note_log/n/ne08dafb32b2c | docs/free-articles/128-why-comfyui-installed-part1.md |
+| 252 | 魔王エターナル 2（イラストだけで描くストーリー） | 有料（メンバーシップ／マガジン限定） | ¥980/月〜 | 2026-09-27 | https://note.com/mushoku_note_log/n/n959bb3483927 | リンクのみ（無料公開部分なし） |
+| 253 | 何故かComfyUIをインストールすることになった、その２【AI活用・AI画像生成・AI動画】 | 無料・制作記録 | - | 2026-09-27 | https://note.com/mushoku_note_log/n/n5d6275991be2 | docs/free-articles/129-why-comfyui-installed-part2.md |
+| 254 | ComfyUIでイラストをつくってみた【AI活用・AI画像生成・初心者AIイラスト】 | 無料・制作記録 | - | 2026-09-27 | https://note.com/mushoku_note_log/n/nb3789b506c4a | docs/free-articles/130-comfyui-illustration-trial-part1.md |
+| 255 | ComfyUIでイラストをつくってみた その２【AI活用・AI画像生成・初心者AIイラスト】 | 無料・制作記録 | - | 2026-09-27 | https://note.com/mushoku_note_log/n/nd234d8106ccd | docs/free-articles/131-comfyui-illustration-trial-part2.md |
+| 256 | 空飛ぶ絨毯プロンプト【AI活用・AI画像生成・初心者AIイラスト】 | 無料・制作記録 | - | 2026-09-27 | https://note.com/mushoku_note_log/n/n89e62bfcbdde | docs/free-articles/132-flying-carpet-prompt.md |
+| 257 | ComfyUIに送ったChatGPTで作ったプロンプト【AI活用・AI画像生成・初心者AIイラスト】 | 有料（期間限定¥250） | ¥500 | 2026-09-28 | https://note.com/mushoku_note_log/n/n059990850f4f | docs/free-articles/133-comfyui-chatgpt-prompts-free-part.md |
+| 258 | THE CELESTIAL ARCHIVE — 星環書庫 4 | 有料（メンバーシップ限定） | ¥980/月 | 2026-09-28 | https://note.com/mushoku_note_log/n/ndfb4d04e7d3e | リンクのみ（無料公開部分なし） |
+| 259 | 違和感を抱いていないのだから余計なおせっかいなんだろうな【AI活用・AI画像生成・初心者AIイラスト】 | 無料・制作記録 | - | 2026-09-28 | https://note.com/mushoku_note_log/n/n784461d9655b | docs/free-articles/134-not-bothered-by-inconsistency.md |
+| 260 | ChatGPT初心者簡単プロンプト【AI活用・AI画像生成・初心者AIイラスト】 | 無料・制作記録 | - | 2026-09-28 | https://note.com/mushoku_note_log/n/n350d39b9a3d6 | docs/free-articles/135-chatgpt-beginner-simple-prompt.md |
 
 ## ライトノベル・楽曲について
 
